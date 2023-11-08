@@ -2,6 +2,8 @@ import pandas as pd
 import re
 import json
 
+# https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/
+
 file_path = "../raw_data/32.Jonah.par"
 
 with open('annotation_equivalences_hebrew.json', 'r') as file:
