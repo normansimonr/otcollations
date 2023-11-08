@@ -4,6 +4,13 @@ import json
 
 file_path = "../raw_data/32.Jonah.par"
 
+with open('annotation_equivalences_hebrew.json', 'r') as file:
+    # Parse the JSON data into a dictionary
+    annotation_equivalences_hebrew = json.load(file)
+    
+with open('annotation_equivalences_greek.json', 'r') as file:
+    # Parse the JSON data into a dictionary
+    annotation_equivalences_greek = json.load(file)
 
 def convert_to_dataframe(file_path):
     """
@@ -56,14 +63,37 @@ def convert_to_dataframe(file_path):
 
     # Splitting the masoretic text
     parallel[["masoretic", "retroverted"]] = parallel["masoretic"].str.split("=", n=1, expand=True) # We add n=1 because there may be several = in the line. We split only with the first
-    parallel['retroverted'] = parallel['retroverted'].fillna('')
     
     # Reordering the columns
     parallel = parallel[["book", "chapter", "verse", "orderby", "masoretic", "retroverted", "lxx"]]
+    
+    # Replacing nulls with empty strings
+    parallel = parallel.fillna('')
 
     return parallel
 
 parallel = convert_to_dataframe(file_path)
+
+def protect_annotations(parallel):
+
+    
+    def enclose_annotation_word_hebrew(word):
+        if word in annotation_equivalences_hebrew.keys():
+            return "<" + word + ">"
+        else:
+            return word
+    
+    def enclose_annotation_word_greek(word):
+        if word in annotation_equivalences_greek.keys():
+            return "<" + word + ">"
+        else:
+            return word
+    
+    for column in ['masoretic', 'retroverted']:
+        parallel[column] = parallel[column].apply(lambda x: ' '.join([enclose_annotation_word_hebrew(word) for word in x.split()]))
+    
+    return parallel
+
 
 def convert_hebrew_to_unicode(parallel):
     # Open the JSON file for reading
@@ -87,14 +117,32 @@ def convert_hebrew_to_unicode(parallel):
             word = word[:-1] + hebrew_final_equivalences[word[-1]]
         return word
 
+    # Replacing nulls with empty strings
+    parallel = parallel.fillna('')
+
+    # Function to replace with Unicode characters, except annotations
+    def replace_with_unicode_except_annotations(text):
+        words = text.split()
+        
+        words_list = []
+        for word in words:
+            if word.startswith('<') and word.endswith('>'):
+                words_list.append(word)
+            else:
+                word_result = []
+                for character in word:
+                    word_result.append(hebrew_equivalences.get(character, character))
+                words_list.append(''.join(word_result))
+        return ' '.join(words_list)
+        
+    
     
     # Removing the / character and replacing with the Unicode letters
     for column in ['masoretic', 'retroverted']:
         parallel[column] = parallel[column].str.replace('/','')
-        parallel[column] = parallel[column].apply(lambda x: ''.join(hebrew_equivalences.get(c, c) for c in x))
+        parallel[column] = parallel[column].apply(replace_with_unicode_except_annotations)
         parallel[column] = parallel[column].apply(lambda x: ' '.join([replace_final_in_word(word) for word in x.split()]))
    
-    
     
     
     return parallel
@@ -131,8 +179,28 @@ def convert_greek_to_unicode(parallel):
     return parallel
 
 
+def replace_annotations(parallel):
+    def replace_these_annotations(text):
+        words = text.split()
+        
+        words_list = []
+        for word in words:
+            if word.startswith('<') and word.endswith('>'):
+                print(word)
+                return annotation_equivalences_hebrew[word.replace('<','').replace('>','')]
+            else:
+                return word
+    
+    for column in ['masoretic', 'retroverted']:
+        parallel[column] = parallel[column].apply(replace_these_annotations)
+    
+    return parallel
+
+
+parallel = protect_annotations(parallel)
 parallel = convert_hebrew_to_unicode(parallel)
 parallel = convert_greek_to_unicode(parallel)
+parallel = replace_annotations(parallel)
 parallel.to_csv('test.csv', index=False)
 print(parallel)
 
