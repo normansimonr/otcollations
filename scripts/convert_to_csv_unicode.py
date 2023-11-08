@@ -94,9 +94,45 @@ def convert_hebrew_to_unicode(parallel):
         parallel[column] = parallel[column].apply(lambda x: ''.join(hebrew_equivalences.get(c, c) for c in x))
         parallel[column] = parallel[column].apply(lambda x: ' '.join([replace_final_in_word(word) for word in x.split()]))
    
+    
+    
+    
     return parallel
 
+
+
+def convert_greek_to_unicode(parallel):
+    # Open the JSON file for reading
+    with open('greek_equivalences.json', 'r') as file:
+        # Parse the JSON data into a dictionary
+        greek_equivalences = json.load(file)
+    
+    # Removing diacritics
+    diacritics = [')', '(', '|', '/', '\\', '=', '+', '*']
+    
+    for diacritic in diacritics:
+        parallel['lxx'] = parallel['lxx'].str.replace(diacritic,'')
+    
+    # Replacing the original value for koppa (#3) with a single letter, Ñ
+    # This makes it easier to replace with the Greek Unicode
+    parallel['lxx'] = parallel['lxx'].str.replace('#3','Ñ')
+        
+    # Replacing code with Unicode    
+    parallel['lxx'] = parallel['lxx'].apply(lambda x: ''.join(greek_equivalences.get(c, c) for c in x))
+    
+    # Function to replace non-final sigma with its final equivalent
+    def replace_final_sigma(word):
+        if word[-1] == 'σ':
+            word = word[:-1] + 'ς'
+        return word
+    
+    parallel['lxx'] = parallel['lxx'].apply(lambda x: ' '.join([replace_final_sigma(word) for word in x.split()]))
+    
+    return parallel
+
+
 parallel = convert_hebrew_to_unicode(parallel)
+parallel = convert_greek_to_unicode(parallel)
 parallel.to_csv('test.csv', index=False)
 print(parallel)
 
