@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources:
+  - CNAME
+  - .nojekyll
+  render: 
+    - index.qmd
+    - collations/*.qmd
+    
+
+website:
+  title: "The LXX and the Hebrew text"
+  favicon: logo.png
+  back-to-top-navigation: true
+  page-footer: "Version {{< var version >}}, data up-to-date as of {{< var listeupdated >}}"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    reference-location: margin
+    theme: sandstone
+    toc: true
+    toc-location: left
+    fontsize: 21px
+    header-includes: |
+      <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,600;1,400;1,600&display=swap" type="text/css"/>
+
+mainfont: "Bona Nova"
+editor: visual
+

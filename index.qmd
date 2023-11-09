@@ -1,0 +1,6 @@
+---
+title: "The Septuagint in Hebrew, collated against the Masoretic text"
+author: ""
+---
+
+[asdasd](collations/Jonah.qmd)
