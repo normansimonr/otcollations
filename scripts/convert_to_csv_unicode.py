@@ -4,8 +4,6 @@ import json
 
 # https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/
 
-file_path = "../raw_data/32.Jonah.par"
-
 with open('annotation_equivalences_hebrew.json', 'r') as file:
     # Parse the JSON data into a dictionary
     annotation_equivalences_hebrew = json.load(file)
@@ -13,6 +11,7 @@ with open('annotation_equivalences_hebrew.json', 'r') as file:
 with open('annotation_equivalences_greek.json', 'r') as file:
     # Parse the JSON data into a dictionary
     annotation_equivalences_greek = json.load(file)
+
 
 def convert_to_dataframe(file_path):
     """
@@ -102,8 +101,6 @@ def convert_to_dataframe(file_path):
     #parallel.to_csv('aver.csv')
 
     return parallel
-
-parallel = convert_to_dataframe(file_path)
 
 def protect_annotations(parallel):
     """
@@ -282,15 +279,19 @@ def replace_annotations(parallel):
     return parallel
 
 
-parallel = protect_annotations(parallel)
-parallel = convert_hebrew_to_unicode(parallel)
-parallel = convert_greek_to_unicode(parallel)
-parallel = replace_annotations(parallel)
-parallel.to_csv('test.csv', index=False)
-print(parallel)
+## Wrapper function
 
-#for i in parallel['masoretic_unicode']:
-#    print(i)
-#ben = pd.DataFrame(parallel['masoretic_unicode'].str.split(expand=True)).iloc[676,1]
-#for char in ben.replace(u'\u200e', ''):
-#    print(char)
+def convert_to_csv_unicode(file_path, book_name):
+    print("Processing", book_name)
+    parallel = convert_to_dataframe(file_path)
+    parallel = protect_annotations(parallel)
+    parallel = convert_hebrew_to_unicode(parallel)
+    parallel = convert_greek_to_unicode(parallel)
+    parallel = replace_annotations(parallel)
+    parallel.to_csv(f'../csvs/{book_name}.csv', index=False)
+    print("\tDone")
+    
+
+file_path = "../raw_data/32.Jonah.par"
+book_name = 'Jonah'
+convert_to_csv_unicode(file_path, book_name)
