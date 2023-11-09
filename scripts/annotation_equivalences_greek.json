@@ -14,6 +14,7 @@
 "~":"Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.",
 "~~~":"Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).",
 "{..~}":"Stylistic or grammatical transposition.",
+"---":"Hebrew counterpart lacking in the LXX (minus in the LXX).",
 "''":"Long minus or plus (at least four lines).",
 "{d}":"Reference to doublet (occurring between the two elements of the doublet.",
 "{..d}":"Distributive rendering, occurring once in the translation but referring to more than one Hebrew word.",

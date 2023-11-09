@@ -122,11 +122,39 @@ def protect_annotations(parallel):
         else:
             return word
     
+    
+    # Making some markers standalone so that they can be protected
+    make_these_standalone_words = ['?','=:','=@']
+    for mark in make_these_standalone_words:
+        for column in ['masoretic', 'retroverted', 'lxx']:
+            parallel[column] = parallel[column].str.replace(mark, ' ' + mark + ' ', regex=False)
+            
+    # Now making the {..} markers standalone too
+    
+    
+    
+    def find_and_replace_curly_markers(text):
+        words = text.split()
+        
+        word_list = []
+        for word in words:
+            pattern_p = r'\{\.\.p([^}]*)\}' # {..p}
+            matches = re.findall(pattern_p, word)
+            if len(matches) > 0:
+                for match in matches:
+                    word_list.append(" {..p} " + match)
+            else:
+                word_list.append(word)
+        return " ".join(word_list)
+        
+        
+    for column in ['masoretic', 'retroverted', 'lxx']:
+        parallel[column] = parallel[column].apply(find_and_replace_curly_markers)
+    
+    
     for column in ['masoretic', 'retroverted']:
-        parallel[column] = parallel[column].str.replace('?', ' ? ') # The ? symbol must be standalone in order to be protected
         parallel[column] = parallel[column].apply(lambda x: ' '.join([enclose_annotation_word_hebrew(word) for word in x.split()]))
     
-    parallel[column] = parallel[column].str.replace('?', ' ? ') # The ? symbol must be standalone in order to be protected
     parallel['lxx'] = parallel['lxx'].apply(lambda x: ' '.join([enclose_annotation_word_greek(word) for word in x.split()]))
     
     return parallel
@@ -223,7 +251,6 @@ def replace_annotations(parallel):
             if word.startswith('!') and word.endswith('!'):
                 word = word.replace('!','')
                 if language == 'hebrew':
-                    print(word)
                     words_list.append("•^[" + annotation_equivalences_hebrew[word] + "]")
                 elif language == 'greek':
                     words_list.append("•^[" + annotation_equivalences_greek[word] + "]")

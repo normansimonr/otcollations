@@ -34,6 +34,7 @@
 "=p%":"Difference in preposition or particle.",
 "=%p+":"Addition of preposition or particle.",
 "=p%-":"Omission of preposition or particle.",
+"=%p-":"Omission of preposition or particle.",
 "=;":"Retroversion based on equivalence occurring in mmediate or remote context.",
 "G":"Hebrew variant, but at this stage no plausible retroversion is suggested.",
 "=+":"Difference in numbers between MT and the LXX.",
