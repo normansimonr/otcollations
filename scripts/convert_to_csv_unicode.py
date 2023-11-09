@@ -64,35 +64,70 @@ def convert_to_dataframe(file_path):
     parallel = parallel.drop(columns=["chapter_verse"])
 
     # Splitting the masoretic text
-    parallel[["masoretic", "retroverted"]] = parallel["masoretic"].str.split("=", n=1, expand=True) # We add n=1 because there may be several = in the line. We split only with the first
+    # Replacing = with another separator
+    new_separator = '■'   
+    
+    def replace_equals_as_separator(text):
+        dont_replace_if_followed_by = ['%', ';', '+', '@', ':', 'v', 'r', 'p']
+        
+        words = text.split()
+        
+        new_words = []
+        for word in words:
+            if '=' in word:
+                if word == '=':
+                    new_words.append(new_separator)
+                elif word[0] == '=':
+                    if word[1] in dont_replace_if_followed_by:
+                        new_words.append(word)
+                    else:
+                        new_words.append(word.replace('=', new_separator))
+                else:
+                    raise ValueError('I don\'t understand this syntax:', word)
+            else:
+                new_words.append(word)
+        
+        return " ".join(new_words)
+    
+    parallel['masoretic'] = parallel['masoretic'].apply(replace_equals_as_separator)
+    
+    # Splitting the columns
+    parallel[["masoretic", "retroverted"]] = parallel["masoretic"].str.split(new_separator, n=1, expand=True)
     
     # Reordering the columns
     parallel = parallel[["book", "chapter", "verse", "orderby", "masoretic", "retroverted", "lxx"]]
     
     # Replacing nulls with empty strings
     parallel = parallel.fillna('')
+    #parallel.to_csv('aver.csv')
 
     return parallel
 
 parallel = convert_to_dataframe(file_path)
 
 def protect_annotations(parallel):
-
+    """
+    Encloses annotations in !! to prevent them from being converted to Hebrew characters
+    """
     
     def enclose_annotation_word_hebrew(word):
         if word in annotation_equivalences_hebrew.keys():
-            return "<" + word + ">"
+            return "!" + word + "!"
         else:
             return word
     
     def enclose_annotation_word_greek(word):
         if word in annotation_equivalences_greek.keys():
-            return "<" + word + ">"
+            return "!" + word + "!"
         else:
             return word
     
     for column in ['masoretic', 'retroverted']:
+        parallel[column] = parallel[column].str.replace('?', ' ? ') # The ? symbol must be standalone in order to be protected
         parallel[column] = parallel[column].apply(lambda x: ' '.join([enclose_annotation_word_hebrew(word) for word in x.split()]))
+    
+    parallel[column] = parallel[column].str.replace('?', ' ? ') # The ? symbol must be standalone in order to be protected
+    parallel['lxx'] = parallel['lxx'].apply(lambda x: ' '.join([enclose_annotation_word_greek(word) for word in x.split()]))
     
     return parallel
 
@@ -128,7 +163,7 @@ def convert_hebrew_to_unicode(parallel):
         
         words_list = []
         for word in words:
-            if word.startswith('<') and word.endswith('>'):
+            if word.startswith('!') and word.endswith('!'):
                 words_list.append(word)
             else:
                 word_result = []
@@ -145,8 +180,6 @@ def convert_hebrew_to_unicode(parallel):
         parallel[column] = parallel[column].apply(replace_with_unicode_except_annotations)
         parallel[column] = parallel[column].apply(lambda x: ' '.join([replace_final_in_word(word) for word in x.split()]))
    
-    
-    
     return parallel
 
 
@@ -161,7 +194,7 @@ def convert_greek_to_unicode(parallel):
     diacritics = [')', '(', '|', '/', '\\', '=', '+', '*']
     
     for diacritic in diacritics:
-        parallel['lxx'] = parallel['lxx'].str.replace(diacritic,'')
+        parallel['lxx'] = parallel['lxx'].str.replace(diacritic,'', regex=False)
     
     # Replacing the original value for koppa (#3) with a single letter, Ñ
     # This makes it easier to replace with the Greek Unicode
@@ -182,19 +215,26 @@ def convert_greek_to_unicode(parallel):
 
 
 def replace_annotations(parallel):
-    def replace_these_annotations(text):
+    def replace_these_annotations(text, language):
         words = text.split()
         
         words_list = []
         for word in words:
-            if word.startswith('<') and word.endswith('>'):
-                print(word)
-                return annotation_equivalences_hebrew[word.replace('<','').replace('>','')]
+            if word.startswith('!') and word.endswith('!'):
+                word = word.replace('!','')
+                if language == 'hebrew':
+                    print(word)
+                    words_list.append("•^[" + annotation_equivalences_hebrew[word] + "]")
+                elif language == 'greek':
+                    words_list.append("•^[" + annotation_equivalences_greek[word] + "]")
             else:
-                return word
+                words_list.append(word)
+        return " ".join(words_list)
     
     for column in ['masoretic', 'retroverted']:
-        parallel[column] = parallel[column].apply(replace_these_annotations)
+        parallel[column] = parallel[column].apply(lambda x: replace_these_annotations(x, 'hebrew'))
+    
+    parallel['lxx'] = parallel['lxx'].apply(lambda x: replace_these_annotations(x, 'greek'))
     
     return parallel
 
