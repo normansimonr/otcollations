@@ -134,17 +134,33 @@ def protect_annotations(parallel):
     
     
     def find_and_replace_curly_markers(text):
+        patterns = {
+            r'\{\.\.p([^}]*)\}':' {..p} ',
+            r'\{\.\.d([^}]*)\}':' {..d} ',
+            r'\{\.\.r([^}]*)\}':' {..r} ',
+            r'\{\.\.\.([^}]*)\}':' {...} ',
+            r'\{\.\.\~([^}]*)\}':' {..~} ',
+        }
+        
         words = text.split()
         
         word_list = []
         for word in words:
-            pattern_p = r'\{\.\.p([^}]*)\}' # {..p}
-            matches = re.findall(pattern_p, word)
-            if len(matches) > 0:
-                for match in matches:
-                    word_list.append(" {..p} " + match)
-            else:
+            matched_patterns = []
+            for pattern in patterns.keys():
+                matches = re.findall(pattern, word)
+                if len(matches) ==1:
+                    matched_patterns.append(patterns[pattern] + matches[0])
+                elif len(matches) > 1:
+                    raise ValueError('Wrong syntax! (too many patterns?)', text)
+                else:
+                    pass
+            if len(matched_patterns) == 1:
+                word_list.append(matched_patterns[0])
+            elif len(matched_patterns) == 0:
                 word_list.append(word)
+            else:
+                raise ValueError('Wrong syntax! (too many patterns?)', text)  
         return " ".join(word_list)
         
         
