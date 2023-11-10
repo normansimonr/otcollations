@@ -1,0 +1,979 @@
+# Jonah
+
+## Chapter 1
+
+### Verse 1
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויהי                   | και εγενετο          |
+| דבר                    | λογος                |
+| יהוה                   | κυριου               |
+| אל                     | προς                 |
+| יונה                   | ιωναν                |
+| בן                     | τον του              |
+| אמתי                   | αμαθι                |
+| לאמר                   | λεγων                |
+: Jonah chapter 1, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|:---------------------|
+| קום                                                 |                      | αναστηθι             |
+| לך                                                  |                      | και πορευθητι        |
+| אל                                                  |                      | εις                  |
+| נינוה                                               |                      | νινευη               |
+| העיר                                                |                      | την πολιν            |
+| הגדולה                                              |                      | την μεγαλην          |
+| וקרא                                                |                      | και κηρυξον          |
+| עליה •^[Difference in preposition or particle.]     |                      | εν αυτη              |
+| כי                                                  |                      | οτι                  |
+| עלתה                                                |                      | ανεβη                |
+| •^[Element 'added' in the Greek (plus in the LXX).] | צעקת                 | η κραυγη             |
+| רעתם                                                |                      | της κακιας αυτης     |
+| לפני •^[Difference in preposition or particle.]     |                      | προς με              |
+: Jonah chapter 1, verse 2 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                      |
+|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
+| ויקם                                                                             | και ανεστη                                                                                                              |
+| יונה                                                                             | ιωνας                                                                                                                   |
+| לברח                                                                             | του φυγειν                                                                                                              |
+| תרשישה                                                                           | εις θαρσις                                                                                                              |
+| מלפני                                                                            | εκ προσωπου                                                                                                             |
+| יהוה                                                                             | κυριου                                                                                                                  |
+| וירד                                                                             | και κατεβη                                                                                                              |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εις                                                                                                                     |
+| יפו <q4a>                                                                        | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις ιοππην |
+| וימצא                                                                            | και ευρεν                                                                                                               |
+| אניה                                                                             | πλοιον                                                                                                                  |
+| באה                                                                              | βαδιζον                                                                                                                 |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εις                                                                                                                     |
+| תרשיש                                                                            | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις θαρσις |
+| ויתן                                                                             | και εδωκεν                                                                                                              |
+| שכרה                                                                             | το ναυλον αυτου                                                                                                         |
+| וירד                                                                             | και ενεβη                                                                                                               |
+| בה                                                                               | εις αυτο                                                                                                                |
+| לבוא                                                                             | του πλευσαι                                                                                                             |
+| עמהם                                                                             | μετ' αυτων                                                                                                              |
+| תרשישה                                                                           | εις θαρσις                                                                                                              |
+| מלפני                                                                            | εκ προσωπου                                                                                                             |
+| יהוה                                                                             | κυριου                                                                                                                  |
+: Jonah chapter 1, verse 3 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 4
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ויהוה                  | και κυριος                                                    |
+| הטיל                   | εξηγειρεν                                                     |
+| רוח                    | πνευμα                                                        |
+| גדולה                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| אל                     | εις                                                           |
+| הים                    | την θαλασσαν                                                  |
+| ויהי                   | και εγενετο                                                   |
+| סער                    | κλυδων                                                        |
+| גדול                   | μεγας                                                         |
+| בים                    | εν τη θαλασση                                                 |
+| והאניה                 | και το πλοιον                                                 |
+| חשבה                   | εκινδυνευεν                                                   |
+| להשבר                  | συντριβηναι                                                   |
+: Jonah chapter 1, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                                                                                                         |
+|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| וייראו                 | και εφοβηθησαν                                                                                                                                             |
+| המלחים                 | οι ναυτικοι                                                                                                                                                |
+| ויזעקו                 | και ανεβοων                                                                                                                                                |
+| איש                    | εκαστος                                                                                                                                                    |
+| אל                     | προς                                                                                                                                                       |
+| אלהיו                  | τον θεον αυτων                                                                                                                                             |
+| ויטלו                  | και εκβολην εποιησαντο                                                                                                                                     |
+| את הכלים               | των σκευων                                                                                                                                                 |
+| אשר                    | των                                                                                                                                                        |
+| באניה                  | εν τω πλοιω                                                                                                                                                |
+| אל                     | εις                                                                                                                                                        |
+| הים                    | την θαλασσαν                                                                                                                                               |
+| להקל                   | του κουφισθηναι                                                                                                                                            |
+| מעליהם                 | απ' αυτων                                                                                                                                                  |
+| ויונה                  | ιωνας •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] δε |
+| ירד                    | κατεβη                                                                                                                                                     |
+| אל                     | εις                                                                                                                                                        |
+| ירכתי                  | την κοιλην                                                                                                                                                 |
+| הספינה                 | του πλοιου                                                                                                                                                 |
+| וישכב                  | και εκαθευδεν                                                                                                                                              |
+| וירדם                  | και ερρεγχεν                                                                                                                                               |
+: Jonah chapter 1, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויקרב                  | και προσηλθεν        |
+| אליו                   | προς αυτον           |
+| רב החבל                | ο πρωρευς            |
+| ויאמר                  | και ειπεν            |
+| לו                     | αυτω                 |
+| מה                     | τι                   |
+| לך                     | συ                   |
+| נרדם                   | ρεγχεις              |
+| קום                    | αναστα               |
+| קרא אל                 | και επικαλου         |
+| אלהיך                  | τον θεον σου         |
+| אולי                   | οπως                 |
+| יתעשת                  | διασωση              |
+| האלהים                 | ο θεος               |
+| לנו                    | ημας                 |
+| ולא                    | και μη               |
+| נאבד                   | απολωμεθα            |
+: Jonah chapter 1, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                  |
+|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
+| ויאמרו                                                                           | και ειπεν                                                                                           |
+| איש                                                                              | εκαστος                                                                                             |
+| אל                                                                               | προς                                                                                                |
+| רעהו                                                                             | τον πλησιον αυτου                                                                                   |
+| לכו                                                                              | δευτε                                                                                               |
+| ונפילה                                                                           | βαλωμεν                                                                                             |
+| גורלות                                                                           | κληρους                                                                                             |
+| ונדעה                                                                            | και επιγνωμεν                                                                                       |
+| בשלמי                                                                            | τινος ενεκεν •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] εστιν |
+| הרעה                                                                             | η κακια                                                                                             |
+| הזאת                                                                             | αυτη                                                                                                |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εστιν                                                                                               |
+| לנו •^[Difference in preposition or particle.]                                   | εν ημιν                                                                                             |
+| ויפלו                                                                            | και εβαλον                                                                                          |
+| גורלות                                                                           | κληρους                                                                                             |
+| ויפל                                                                             | και επεσεν                                                                                          |
+| הגורל                                                                            | ο κληρος                                                                                            |
+| על                                                                               | επι                                                                                                 |
+| יונה                                                                             | ιωναν                                                                                               |
+: Jonah chapter 1, verse 7 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                                                                                                                                                    |
+|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ויאמרו                                                                           | και ειπον                                                                                                                                                                                                                                             |
+| אליו                                                                             | προς αυτον                                                                                                                                                                                                                                            |
+| הגידה                                                                            | απαγγειλον                                                                                                                                                                                                                                            |
+| נא                                                                               | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                                                                                                                                                         |
+| לנו                                                                              | ημιν                                                                                                                                                                                                                                                  |
+| באשר למי                                                                         | τινος •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] ενεκεν •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] εστιν |
+| הרעה                                                                             | η κακια                                                                                                                                                                                                                                               |
+| הזאת                                                                             | αυτη                                                                                                                                                                                                                                                  |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εστιν                                                                                                                                                                                                                                                 |
+| לנו •^[Difference in preposition or particle.]                                   | εν ημιν                                                                                                                                                                                                                                               |
+| מה                                                                               | τις •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] εστιν                                                                                                                                                            |
+| מלאכתך                                                                           | σου •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] η εργασια                                                                                       |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εστιν                                                                                                                                                                                                                                                 |
+| ומאין                                                                            | και ποθεν                                                                                                                                                                                                                                             |
+| תבוא                                                                             | ερχη                                                                                                                                                                                                                                                  |
+| מה •^[Addition of preposition or particle.]                                      | και εκ ποιας                                                                                                                                                                                                                                          |
+| ארצך                                                                             | χωρας                                                                                                                                                                                                                                                 |
+| ואי מזה                                                                          | και εκ ποιου                                                                                                                                                                                                                                          |
+| עם                                                                               | λαου                                                                                                                                                                                                                                                  |
+| אתה                                                                              | ει συ                                                                                                                                                                                                                                                 |
+: Jonah chapter 1, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Tov's retroversion                                                                                                  | Rahlf's Septuagint   |
+|:-----------------------|:--------------------------------------------------------------------------------------------------------------------|:---------------------|
+| ויאמר                  |                                                                                                                     | και ειπεν            |
+| אליהם                  |                                                                                                                     | προς αυτους          |
+| עברי                   | עבד י •^[One word of MT separated into two or more words in the parent text of the LXX.] •^[Possible abbreviation.] | δουλος κυριου        |
+| אנכי                   |                                                                                                                     | εγω ειμι             |
+| ואת יהוה               |                                                                                                                     | και τον κυριον       |
+| אלהי                   |                                                                                                                     | θεον                 |
+| השמים                  |                                                                                                                     | του ουρανου          |
+| אני                    |                                                                                                                     | εγω                  |
+| ירא                    |                                                                                                                     | σεβομαι              |
+| אשר                    |                                                                                                                     | ος                   |
+| עשה                    |                                                                                                                     | εποιησεν             |
+| את הים                 |                                                                                                                     | την θαλασσαν         |
+| ואת היבשה              |                                                                                                                     | και την ξηραν        |
+: Jonah chapter 1, verse 9 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 10
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וייראו                 | και εφοβηθησαν       |
+| האנשים                 | οι ανδρες            |
+| יראה                   | φοβον                |
+| גדולה                  | μεγαν                |
+| ויאמרו                 | και ειπαν            |
+| אליו                   | προς αυτον           |
+| מה                     | τι                   |
+| זאת                    | τουτο                |
+| עשית                   | εποιησας             |
+| כי                     | διοτι                |
+| ידעו                   | εγνωσαν              |
+| האנשים                 | οι ανδρες            |
+| כי                     | οτι                  |
+| מלפני                  | εκ προσωπου          |
+| יהוה                   | κυριου               |
+| הוא                    | ην                   |
+| ברח                    | φευγων               |
+| כי                     | οτι                  |
+| הגיד                   | απηγγειλεν           |
+| להם                    | αυτοις               |
+: Jonah chapter 1, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                              |
+|:---------------------------------------------------------------------------------|:------------------------------------------------|
+| ויאמרו                                                                           | και ειπαν                                       |
+| אליו                                                                             | προς αυτον                                      |
+| מה                                                                               | τι                                              |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | σοι                                             |
+| נעשה                                                                             | ποιησωμεν                                       |
+| לך                                                                               | •^[Stylistic or grammatical transposition.] σοι |
+| וישתק                                                                            | και κοπασει                                     |
+| הים                                                                              | η θαλασσα                                       |
+| מעלינו                                                                           | αφ' ημων                                        |
+| כי                                                                               | οτι                                             |
+| הים                                                                              | η θαλασσα                                       |
+| הולך                                                                             | επορευετο                                       |
+| וסער                                                                             | και εξηγειρεν μαλλον κλυδωνα                    |
+: Jonah chapter 1, verse 11 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 12
+
+| Masoretic text (BHS)                                                                                | Rahlf's Septuagint   |
+|:----------------------------------------------------------------------------------------------------|:---------------------|
+| ויאמר                                                                                               | και ειπεν            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] יונה | ιωνας                |
+| אליהם                                                                                               | προς αυτους          |
+| שאוני                                                                                               | αρατε με             |
+| והטילני                                                                                             | και εμβαλετε με      |
+| אל                                                                                                  | εις                  |
+| הים                                                                                                 | την θαλασσαν         |
+| וישתק                                                                                               | και κοπασει          |
+| הים                                                                                                 | η θαλασσα            |
+| מעליכם                                                                                              | αφ' υμων             |
+| כי                                                                                                  | διοτι                |
+| יודע                                                                                                | εγνωκα               |
+| אני                                                                                                 | εγω                  |
+| כי                                                                                                  | οτι                  |
+| בשלי                                                                                                | δι' εμε              |
+| הסער                                                                                                | ο κλυδων             |
+| הגדול                                                                                               | ο μεγας              |
+| הזה                                                                                                 | ουτος                |
+| עליכם                                                                                               | εφ' υμας             |
+| •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                       | εστιν                |
+: Jonah chapter 1, verse 12 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 13
+
+| Masoretic text (BHS)   | Rahlf's Septuagint    |
+|:-----------------------|:----------------------|
+| ויחתרו                 | και παρεβιαζοντο      |
+| האנשים                 | οι ανδρες             |
+| להשיב                  | του επιστρεψαι        |
+| אל                     | προς                  |
+| היבשה                  | την γην               |
+| ולא                    | και ουκ               |
+| יכלו                   | ηδυναντο              |
+| כי                     | οτι                   |
+| הים                    | η θαλασσα             |
+| הולך                   | επορευετο             |
+| וסער                   | και εξηγειρετο μαλλον |
+| עליהם                  | επ' αυτους            |
+: Jonah chapter 1, verse 13 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 14
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                                                           |
+|:-----------------------|:-------------------------------------------------------------------------------------------------------------|
+| ויקראו                 | και ανεβοησαν                                                                                                |
+| אל                     | προς                                                                                                         |
+| יהוה                   | κυριον                                                                                                       |
+| ויאמרו                 | και ειπαν                                                                                                    |
+| אנה                    | μηδαμως                                                                                                      |
+| יהוה                   | κυριε                                                                                                        |
+| אל נא                  | μη •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Questionable notation, equivalent, etc.] |
+| נאבדה                  | απολωμεθα                                                                                                    |
+| בנפש                   | ενεκεν της ψυχης                                                                                             |
+| האיש                   | του ανθρωπου                                                                                                 |
+| הזה                    | τουτου                                                                                                       |
+| ואל                    | και μη                                                                                                       |
+| תתן                    | δως                                                                                                          |
+| עלינו                  | εφ' ημας                                                                                                     |
+| דם                     | αιμα                                                                                                         |
+| נקיא                   | δικαιον                                                                                                      |
+| כי                     | οτι                                                                                                          |
+| אתה                    | συ                                                                                                           |
+| יהוה                   | κυριε                                                                                                        |
+| כאשר                   | ον τροπον                                                                                                    |
+| חפצת                   | εβουλου                                                                                                      |
+| עשית                   | πεποιηκας                                                                                                    |
+: Jonah chapter 1, verse 14 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 15
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וישאו                  | και ελαβον           |
+| את יונה                | τον ιωναν            |
+| ויטלהו                 | και εξεβαλον αυτον   |
+| אל                     | εις                  |
+| הים                    | την θαλασσαν         |
+| ויעמד                  | και εστη             |
+| הים                    | η θαλασσα            |
+| מזעפו                  | εκ του σαλου αυτης   |
+: Jonah chapter 1, verse 15 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 16
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וייראו                 | και εφοβηθησαν       |
+| האנשים                 | οι ανδρες            |
+| יראה                   | φοβω                 |
+| גדולה                  | μεγαλω               |
+| את יהוה                | τον κυριον           |
+| ויזבחו                 | και εθυσαν           |
+| זבח                    | θυσιαν               |
+| ליהוה                  | τω κυριω             |
+| וידרו                  | και ευξαντο          |
+| נדרים                  | ευχας                |
+: Jonah chapter 1, verse 16 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 2
+
+### Verse 1
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וימן                   | και προσεταξεν       |
+| יהוה                   | κυριος               |
+| דג                     | κητει                |
+| גדול                   | μεγαλω               |
+| לבלע                   | καταπιειν            |
+| את יונה                | τον ιωναν            |
+| ויהי                   | και ην               |
+| יונה                   | ιωνας                |
+| במעי                   | εν τη κοιλια         |
+| הדג                    | του κητους           |
+| שלשה                   | τρεις                |
+| ימים                   | ημερας               |
+| ושלשה                  | και τρεις            |
+| לילות                  | νυκτας               |
+: Jonah chapter 2, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויתפלל                 | και προσηυξατο       |
+| יונה                   | ιωνας                |
+| אל                     | προς                 |
+| יהוה                   | κυριον               |
+| אלהיו                  | τον θεον αυτου       |
+| ממעי                   | εκ της κοιλιας       |
+| הדגה                   | του κητους           |
+: Jonah chapter 2, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                | Tov's retroversion                              | Rahlf's Septuagint   |
+|:----------------------------------------------------|:------------------------------------------------|:---------------------|
+| ויאמר                                               |                                                 | και ειπεν            |
+| קראתי                                               |                                                 | εβοησα               |
+| מצרה •^[Difference in preposition or particle.]     |                                                 | εν θλιψει            |
+| לי                                                  |                                                 | μου                  |
+| אל                                                  |                                                 | προς                 |
+| יהוה                                                |                                                 | κυριον               |
+| •^[Element 'added' in the Greek (plus in the LXX).] |                                                 | τον θεον μου         |
+| ויענני                                              |                                                 | και εισηκουσεν μου   |
+| מבטן                                                |                                                 | εκ κοιλιας           |
+| שאול                                                |                                                 | αδου                 |
+| שועתי                                               | שועתי •^[Difference in vocalization (reading).] | κραυγης μου          |
+| שמעת                                                |                                                 | ηκουσας              |
+| קולי                                                |                                                 | φωνης μου            |
+: Jonah chapter 2, verse 3 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 4
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                                                             |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ותשליכני                                                                         | απερριψας με                                                                                                                                                   |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εις                                                                                                                                                            |
+| מצולה                                                                            | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις βαθη                                          |
+| בלבב •^[Omission of preposition or particle.]                                    | καρδιας                                                                                                                                                        |
+| ימים                                                                             | θαλασσης                                                                                                                                                       |
+| ונהר                                                                             | και ποταμοι                                                                                                                                                    |
+| יסבבני                                                                           | με •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] εκυκλωσαν |
+| כל                                                                               | παντες                                                                                                                                                         |
+| משבריך                                                                           | οι μετεωρισμοι σου                                                                                                                                             |
+| וגליך                                                                            | και τα κυματα σου                                                                                                                                              |
+| עלי                                                                              | επ' εμε                                                                                                                                                        |
+| עברו                                                                             | διηλθον                                                                                                                                                        |
+: Jonah chapter 2, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואני                   | και εγω              |
+| אמרתי                  | ειπα                 |
+| נגרשתי                 | απωσμαι              |
+| מנגד                   | εξ                   |
+| עיניך                  | οφθαλμων σου         |
+| אך                     | αρα                  |
+| אוסיף                  | προσθησω             |
+| להביט                  | του επιβλεψαι        |
+| אל                     | προς                 |
+| היכל                   | τον ναον             |
+| קדשך                   | τον αγιον σου        |
+: Jonah chapter 2, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                        |
+|:---------------------------------------------------------------------------------|:----------------------------------------------------------|
+| אפפוני                                                                           | περιεχυθη •^[Stylistic or grammatical transposition.] μοι |
+| מים                                                                              | υδωρ                                                      |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | μοι                                                       |
+| עד                                                                               | εως                                                       |
+| נפש                                                                              | ψυχης                                                     |
+| תהום                                                                             | αβυσσος                                                   |
+| יסבבני                                                                           | εκυκλωσεν με                                              |
+| סוף •^[Difference in vocalization (reading).] •^[Etymological exegesis.]         | εσχατη                                                    |
+| חבוש                                                                             | εδυ                                                       |
+| לראשי •^[Omission of preposition or particle.]                                   | η κεφαλη μου                                              |
+: Jonah chapter 2, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)                                                             | Tov's retroversion                                                                         | Rahlf's Septuagint                                                                                                   |
+|:---------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+| לקצבי                                                                            |                                                                                            | εις σχισμας [6]                                                                                                      |
+| הרים                                                                             |                                                                                            | ορεων [6]                                                                                                            |
+| ירדתי                                                                            |                                                                                            | κατεβην                                                                                                              |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] |                                                                                            | εις                                                                                                                  |
+| הארץ                                                                             |                                                                                            | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις γην |
+| •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                    |                                                                                            | ης                                                                                                                   |
+| ברחיה                                                                            |                                                                                            | οι μοχλοι αυτης                                                                                                      |
+| בעדי                                                                             |                                                                                            | κατοχοι                                                                                                              |
+| לעולם                                                                            |                                                                                            | αιωνιοι                                                                                                              |
+| ותעל                                                                             |                                                                                            | και αναβητω                                                                                                          |
+| משחת                                                                             | •^[Questionable notation, equivalent, etc.] משחת •^[Difference in vocalization (reading).] | φθορα                                                                                                                |
+| חיי                                                                              |                                                                                            | ζωης μου                                                                                                             |
+| יהוה                                                                             |                                                                                            | κυριε                                                                                                                |
+| אלהי                                                                             |                                                                                            | ο θεος μου                                                                                                           |
+: Jonah chapter 2, verse 7 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 8
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| בהתעטף                 | εν τω εκλειπειν      |
+| עלי                    | απ' εμου             |
+| נפשי                   | την ψυχην μου        |
+| את יהוה                | του κυριου           |
+| זכרתי                  | εμνησθην             |
+| ותבוא                  | και ελθοι            |
+| אליך                   | προς σε              |
+| תפלתי                  | η προσευχη μου       |
+| אל                     | εις                  |
+| היכל                   | ναον                 |
+| קדשך                   | αγιον σου            |
+: Jonah chapter 2, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| משמרים                 | φυλασσομενοι         |
+| הבלי                   | ματαια               |
+| שוא                    | και ψευδη            |
+| חסדם                   | ελεος αυτων          |
+| יעזבו                  | εγκατελιπον          |
+: Jonah chapter 2, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint                                                                                                                                       |
+|:----------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ואני                                                | εγω •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] δε |
+| בקול                                                | μετα φωνης                                                                                                                                               |
+| תודה                                                | αινεσεως •^[Reference to doublet (occurring between the two elements of the doublet.] και εξομολογησεως                                                  |
+| אזבחה                                               | θυσω                                                                                                                                                     |
+| לך                                                  | σοι                                                                                                                                                      |
+| אשר                                                 | οσα                                                                                                                                                      |
+| נדרתי                                               | ηυξαμην                                                                                                                                                  |
+| אשלמה                                               | αποδωσω                                                                                                                                                  |
+| •^[Element 'added' in the Greek (plus in the LXX).] | σοι                                                                                                                                                      |
+| ישועתה                                              | σωτηριου                                                                                                                                                 |
+| ליהוה                                               | τω κυριω                                                                                                                                                 |
+: Jonah chapter 2, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)                                   | Rahlf's Septuagint                                            |
+|:-------------------------------------------------------|:--------------------------------------------------------------|
+| ויאמר •^[Change from active to passive form in verbs.] | και προσεταγη                                                 |
+| יהוה                                                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| לדג                                                    | τω κητει                                                      |
+| ויקא                                                   | και εξεβαλεν                                                  |
+| את יונה                                                | τον ιωναν                                                     |
+| אל                                                     | επι                                                           |
+| היבשה                                                  | την ξηραν                                                     |
+: Jonah chapter 2, verse 11 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 3
+
+### Verse 1
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויהי                   | και εγενετο          |
+| דבר                    | λογος                |
+| יהוה                   | κυριου               |
+| אל                     | προς                 |
+| יונה                   | ιωναν                |
+| שנית                   | εκ δευτερου          |
+| לאמר                   | λεγων                |
+: Jonah chapter 3, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)                                          | Rahlf's Septuagint   |
+|:--------------------------------------------------------------|:---------------------|
+| קום                                                           | αναστηθι             |
+| לך                                                            | και πορευθητι        |
+| אל                                                            | εις                  |
+| נינוה                                                         | νινευη               |
+| העיר                                                          | την πολιν            |
+| הגדולה                                                        | την μεγαλην          |
+| וקרא                                                          | και κηρυξον          |
+| אליה •^[Difference in preposition or particle.]               | εν αυτη              |
+| את הקריאה •^[Difference in preposition or particle.]          | κατα το κηρυγμα      |
+| •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] | το εμπροσθεν         |
+| אשר                                                           | ο                    |
+| אנכי                                                          | εγω                  |
+| דבר                                                           | ελαλησα              |
+| אליך                                                          | προς σε              |
+: Jonah chapter 3, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                                                                                                                   | Tov's retroversion   | Rahlf's Septuagint                                                                                                                                            |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ויקם                                                                                                                                                   |                      | και ανεστη                                                                                                                                                    |
+| יונה                                                                                                                                                   |                      | ιωνας                                                                                                                                                         |
+| וילך                                                                                                                                                   |                      | και επορευθη                                                                                                                                                  |
+| אל                                                                                                                                                     |                      | εις                                                                                                                                                           |
+| נינוה                                                                                                                                                  |                      | νινευη                                                                                                                                                        |
+| כדבר •^[Difference in vocalization (reading).]                                                                                                         |                      | καθως ελαλησεν                                                                                                                                                |
+| יהוה                                                                                                                                                   |                      | κυριος                                                                                                                                                        |
+| ונינוה                                                                                                                                                 |                      | η •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] δε νινευη |
+| היתה                                                                                                                                                   |                      | ην                                                                                                                                                            |
+| עיר                                                                                                                                                    |                      | πολις                                                                                                                                                         |
+| גדולה                                                                                                                                                  |                      | μεγαλη                                                                                                                                                        |
+| לאלהים                                                                                                                                                 |                      | τω θεω                                                                                                                                                        |
+| מהלך •^[Addition of preposition or particle.]                                                                                                          |                      | ωσει πορειας οδου                                                                                                                                             |
+| שלשת •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] | ימים                 | ημερων                                                                                                                                                        |
+: Jonah chapter 3, verse 3 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 4
+
+| Masoretic text (BHS)                                     | Rahlf's Septuagint   |
+|:---------------------------------------------------------|:---------------------|
+| ויחל                                                     | και ηρξατο           |
+| יונה                                                     | ιωνας                |
+| לבוא                                                     | του εισελθειν        |
+| בעיר                                                     | εις την πολιν        |
+| מהלך •^[Addition of preposition or particle.]            | ωσει πορειαν         |
+| יום                                                      | ημερας               |
+| אחד                                                      | μιας                 |
+| ויקרא                                                    | και εκηρυξεν         |
+| ויאמר                                                    | και ειπεν            |
+| עוד                                                      | ετι                  |
+| ארבעים •^[Difference in numbers between MT and the LXX.] | τρεις                |
+| יום                                                      | ημεραι               |
+| ונינוה                                                   | και νινευη           |
+| נהפכת                                                    | καταστραφησεται      |
+: Jonah chapter 3, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)                                                                       | Rahlf's Septuagint   |
+|:-------------------------------------------------------------------------------------------|:---------------------|
+| ויאמינו •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] ב | και ενεπιστευσαν     |
+| אנשי                                                                                       | οι ανδρες            |
+| נינוה                                                                                      | νινευη               |
+| באלהים                                                                                     | τω θεω               |
+| ויקראו                                                                                     | και εκηρυξαν         |
+| צום                                                                                        | νηστειαν             |
+| וילבשו                                                                                     | και ενεδυσαντο       |
+| שקים                                                                                       | σακκους              |
+| מגדולם                                                                                     | απο μεγαλου αυτων    |
+| ועד                                                                                        | εως                  |
+| קטנם                                                                                       | μικρου αυτων         |
+: Jonah chapter 3, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויגע                   | και ηγγισεν          |
+| הדבר                   | ο λογος              |
+| אל                     | προς                 |
+| מלך                    | τον βασιλεα          |
+| נינוה                  | της νινευη           |
+| ויקם                   | και εξανεστη         |
+| מכסאו                  | απο του θρονου αυτου |
+| ויעבר                  | και περιειλατο       |
+| אדרתו                  | την στολην αυτου     |
+| מעליו                  | αφ' εαυτου           |
+| ויכס                   | και περιεβαλετο      |
+| שק                     | σακκον               |
+| וישב                   | και εκαθισεν         |
+| על                     | επι                  |
+| האפר                   | σποδου               |
+: Jonah chapter 3, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)                                                        | Rahlf's Septuagint                                                                                                                                          |
+|:----------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ויזעק •^[Change from active to passive form in verbs.]                      | και εκηρυχθη                                                                                                                                                |
+| ויאמר •^[Change from active to passive form in verbs.]                      | και ερρεθη                                                                                                                                                  |
+| בנינוה                                                                      | εν τη νινευη                                                                                                                                                |
+| מטעם                                                                        | παρα                                                                                                                                                        |
+| המלך                                                                        | του βασιλεως                                                                                                                                                |
+| •^[Notation in Hebrew column of elements repeated in the translation.] מטעם | και παρα                                                                                                                                                    |
+| וגדליו                                                                      | των μεγιστανων αυτου                                                                                                                                        |
+| לאמר                                                                        | λεγων                                                                                                                                                       |
+| האדם                                                                        | οι ανθρωποι                                                                                                                                                 |
+| והבהמה                                                                      | και τα κτηνη                                                                                                                                                |
+| הבקר                                                                        | και οι βοες                                                                                                                                                 |
+| והצאן                                                                       | και τα προβατα                                                                                                                                              |
+| אל                                                                          | μη                                                                                                                                                          |
+| יטעמו                                                                       | γευσασθωσαν                                                                                                                                                 |
+| מאומה                                                                       | μηδεν                                                                                                                                                       |
+| אל                                                                          | μηδε                                                                                                                                                        |
+| ירעו                                                                        | νεμεσθωσαν                                                                                                                                                  |
+| ומים אל                                                                     | μηδε •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] υδωρ |
+| ישתו                                                                        | πιετωσαν                                                                                                                                                    |
+: Jonah chapter 3, verse 7 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| ויתכסו                                              | και περιεβαλοντο     |
+| שקים                                                | σακκους              |
+| האדם                                                | οι ανθρωποι          |
+| והבהמה                                              | και τα κτηνη         |
+| ויקראו                                              | και ανεβοησαν        |
+| אל                                                  | προς                 |
+| אלהים                                               | τον θεον             |
+| בחזקה                                               | εκτενως              |
+| וישבו                                               | και απεστρεψαν       |
+| איש                                                 | εκαστος              |
+| מדרכו                                               | απο της οδου αυτου   |
+| הרעה                                                | της πονηρας          |
+| ומן                                                 | και απο              |
+| החמס                                                | της αδικιας          |
+| אשר                                                 | της                  |
+| בכפיהם                                              | εν χερσιν αυτων      |
+| •^[Element 'added' in the Greek (plus in the LXX).] | λεγοντες             |
+: Jonah chapter 3, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| מי                     | τις                                                           |
+| יודע                   | οιδεν                                                         |
+| ישוב                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ונחם                   | ει μετανοησει                                                 |
+| האלהים                 | ο θεος                                                        |
+| ושב                    | και αποστρεψει                                                |
+| מחרון                  | εξ οργης                                                      |
+| אפו                    | θυμου αυτου                                                   |
+| ולא                    | και ου μη                                                     |
+| נאבד                   | απολωμεθα                                                     |
+: Jonah chapter 3, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וירא                   | και ειδεν            |
+| האלהים                 | ο θεος               |
+| את מעשיהם              | τα εργα αυτων        |
+| כי                     | οτι                  |
+| שבו                    | απεστρεψαν           |
+| מדרכם                  | απο των οδων αυτων   |
+| הרעה                   | των πονηρων          |
+| וינחם                  | και μετενοησεν       |
+| האלהים                 | ο θεος               |
+| על                     | επι                  |
+| הרעה                   | τη κακια             |
+| אשר                    | η                    |
+| דבר                    | ελαλησεν             |
+| לעשות                  | του ποιησαι          |
+| להם                    | αυτοις               |
+| ולא                    | και ουκ              |
+| עשה                    | εποιησεν             |
+: Jonah chapter 3, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 4
+
+### Verse 1
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וירע אל                | και ελυπηθη          |
+| יונה                   | ιωνας                |
+| רעה                    | λυπην                |
+| גדולה                  | μεγαλην              |
+| ויחר לו                | και συνεχυθη         |
+: Jonah chapter 4, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint                                            |
+|:-----------------------|:---------------------|:--------------------------------------------------------------|
+| ויתפלל                 |                      | και προσευξατο                                                |
+| אל                     |                      | προς                                                          |
+| יהוה                   |                      | κυριον                                                        |
+| ויאמר                  |                      | και ειπεν                                                     |
+| אנה                    |                      | ω                                                             |
+| יהוה                   |                      | κυριε                                                         |
+| הלוא                   |                      | ουχ                                                           |
+| זה                     |                      | ουτοι                                                         |
+| דברי                   |                      | οι λογοι μου                                                  |
+| עד                     | עוד                  | ετι                                                           |
+| היותי                  |                      | οντος μου                                                     |
+| על                     |                      | εν                                                            |
+| אדמתי                  |                      | τη γη μου                                                     |
+| על כן                  |                      | δια τουτο                                                     |
+| קדמתי                  |                      | προεφθασα                                                     |
+| לברח                   |                      | του φυγειν                                                    |
+| תרשישה                 |                      | εις θαρσις                                                    |
+| כי                     |                      | διοτι                                                         |
+| ידעתי                  |                      | εγνων                                                         |
+| כי                     |                      | οτι                                                           |
+| אתה                    |                      | συ                                                            |
+| אל                     |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| חנון                   |                      | ελεημων                                                       |
+| ורחום                  |                      | και οικτιρμων                                                 |
+| ארך אפים               |                      | μακροθυμος                                                    |
+| ורב חסד                |                      | και πολυελεος                                                 |
+| ונחם                   |                      | και μετανοων                                                  |
+| על                     |                      | επι                                                           |
+| הרעה                   |                      | ταις κακιαις                                                  |
+: Jonah chapter 4, verse 2 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                               | Rahlf's Septuagint                                            |
+|:-------------------------------------------------------------------|:--------------------------------------------------------------|
+| ועתה                                                               | και νυν                                                       |
+| •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] יהוה | δεσποτα κυριε                                                 |
+| קח                                                                 | λαβε                                                          |
+| נא                                                                 | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| את נפשי                                                            | την ψυχην μου                                                 |
+| ממני                                                               | απ' εμου                                                      |
+| כי                                                                 | οτι                                                           |
+| טוב                                                                | καλον                                                         |
+| מותי                                                               | το αποθανειν με                                               |
+| מחיי                                                               | η ζην με                                                      |
+: Jonah chapter 4, verse 3 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 4
+
+| Masoretic text (BHS)                                                                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------------------------------------------------------|:---------------------|:---------------------|
+| ויאמר                                                                                               |                      | και ειπεν            |
+| יהוה                                                                                                |                      | κυριος               |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                 | אל                   | προς                 |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] יונה |                      | ιωναν                |
+| ההיטב                                                                                               |                      | ει σφοδρα            |
+| חרה                                                                                                 |                      | λελυπησαι            |
+| לך                                                                                                  |                      | συ                   |
+: Jonah chapter 4, verse 4 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 5
+
+| Masoretic text (BHS)                                                                    | Rahlf's Septuagint   |
+|:----------------------------------------------------------------------------------------|:---------------------|
+| ויצא                                                                                    | και εξηλθεν          |
+| יונה                                                                                    | ιωνας                |
+| מן                                                                                      | εκ                   |
+| העיר                                                                                    | της πολεως           |
+| וישב                                                                                    | και εκαθισεν         |
+| מקדם •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] ל | απεναντι             |
+| לעיר                                                                                    | της πολεως           |
+| ויעש                                                                                    | και εποιησεν         |
+| לו                                                                                      | εαυτω                |
+| שם                                                                                      | εκει                 |
+| סכה                                                                                     | σκηνην               |
+| וישב                                                                                    | και εκαθητο          |
+| תחתיה                                                                                   | υποκατω αυτης        |
+| בצל                                                                                     | εν σκια              |
+| עד אשר                                                                                  | εως ου               |
+| יראה                                                                                    | απιδη                |
+| מה                                                                                      | τι                   |
+| יהיה                                                                                    | εσται                |
+| בעיר                                                                                    | τη πολει             |
+: Jonah chapter 4, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)                                                                                                                                                                   | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------|
+| וימן                                                                                                                                                                                   | και προσεταξεν       |
+| יהוה                                                                                                                                                                                   | κυριος               |
+| אלהים                                                                                                                                                                                  | ο θεος               |
+| קיקיון                                                                                                                                                                                 | κολοκυνθη            |
+| ויעל                                                                                                                                                                                   | και ανεβη            |
+| מעל •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] ל •^[Element 'added' in the Greek (plus in the LXX).] •^[Questionable notation, equivalent, etc.] | υπερ κεφαλης         |
+| ליונה                                                                                                                                                                                  | του ιωνα             |
+| להיות                                                                                                                                                                                  | του ειναι            |
+| צל                                                                                                                                                                                     | σκιαν                |
+| על                                                                                                                                                                                     | υπερανω              |
+| ראשו                                                                                                                                                                                   | της κεφαλης αυτου    |
+| להציל •^[Etymological exegesis.] צלל                                                                                                                                                   | του σκιαζειν         |
+| לו                                                                                                                                                                                     | αυτω                 |
+| מרעתו                                                                                                                                                                                  | απο των κακων αυτου  |
+| וישמח                                                                                                                                                                                  | και εχαρη            |
+| יונה                                                                                                                                                                                   | ιωνας                |
+| על                                                                                                                                                                                     | επι                  |
+| הקיקיון                                                                                                                                                                                | τη κολοκυνθη         |
+| שמחה                                                                                                                                                                                   | χαραν                |
+| גדולה                                                                                                                                                                                  | μεγαλην              |
+: Jonah chapter 4, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וימן                   | και προσεταξεν       |
+| האלהים                 | ο θεος               |
+| תולעת                  | σκωληκι              |
+| בעלות השחר             | εωθινη               |
+| למחרת                  | τη επαυριον          |
+| ותך                    | και επαταξεν         |
+| את הקיקיון             | την κολοκυνθαν       |
+| וייבש                  | και απεξηρανθη       |
+: Jonah chapter 4, verse 7 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                                                        | Rahlf's Septuagint                                                               |
+|:--------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| ויהי                                                                                        | και εγενετο                                                                      |
+| כזרח                                                                                        | αμα τω ανατειλαι                                                                 |
+| השמש                                                                                        | τον ηλιον                                                                        |
+| וימן                                                                                        | και προσεταξεν                                                                   |
+| אלהים                                                                                       | ο θεος                                                                           |
+| רוח                                                                                         | πνευματι                                                                         |
+| קדים                                                                                        | καυσωνος                                                                         |
+| חרישית                                                                                      | συγκαιοντι                                                                       |
+| ותך                                                                                         | και επαταξεν                                                                     |
+| השמש                                                                                        | ο ηλιος                                                                          |
+| על                                                                                          | επι                                                                              |
+| ראש                                                                                         | την κεφαλην                                                                      |
+| יונה                                                                                        | ιωνα                                                                             |
+| ויתעלף                                                                                      | και ωλιγοψυχησεν                                                                 |
+| וישאל •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] למות | και απελεγετο                                                                    |
+| את נפשו                                                                                     | την ψυχην αυτου                                                                  |
+| למות                                                                                        | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] |
+| ויאמר                                                                                       | και ειπεν                                                                        |
+| טוב                                                                                         | καλον                                                                            |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                         | μοι                                                                              |
+| מותי                                                                                        | αποθανειν με                                                                     |
+| מחיי                                                                                        | η ζην                                                                            |
+: Jonah chapter 4, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויאמר                  | και ειπεν            |
+| אלהים                  | ο θεος               |
+| אל                     | προς                 |
+| יונה                   | ιωναν                |
+| ההיטב                  | ει σφοδρα            |
+| חרה                    | λελυπησαι            |
+| לך                     | συ                   |
+| על                     | επι                  |
+| הקיקיון                | τη κολοκυνθη         |
+| ויאמר                  | και ειπεν            |
+| היטב                   | σφοδρα               |
+| חרה                    | λελυπημαι            |
+| לי                     | εγω                  |
+| עד                     | εως                  |
+| מות                    | θανατου              |
+: Jonah chapter 4, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                 |
+|:---------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| ויאמר                                                                            | και ειπεν                                                                                                          |
+| יהוה                                                                             | κυριος                                                                                                             |
+| אתה                                                                              | συ                                                                                                                 |
+| חסת                                                                              | εφεισω                                                                                                             |
+| על                                                                               | υπερ                                                                                                               |
+| הקיקיון                                                                          | της κολοκυνθης                                                                                                     |
+| אשר                                                                              | υπερ ης                                                                                                            |
+| לא                                                                               | ουκ                                                                                                                |
+| עמלת                                                                             | εκακοπαθησας                                                                                                       |
+| בו                                                                               | επ' αυτην                                                                                                          |
+| ולא                                                                              | και ουκ                                                                                                            |
+| גדלתו                                                                            | εξεθρεψας αυτην                                                                                                    |
+| שבן                                                                              | η •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] υπο |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εγενηθη                                                                                                            |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | υπο                                                                                                                |
+| לילה                                                                             | νυκτα                                                                                                              |
+| היה                                                                              | •^[Stylistic or grammatical transposition.] εγενηθη                                                                |
+| ובן                                                                              | και υπο                                                                                                            |
+| לילה                                                                             | νυκτα                                                                                                              |
+| אבד                                                                              | απωλετο                                                                                                            |
+: Jonah chapter 4, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)                                                                    | Tov's retroversion                              | Rahlf's Septuagint                                                                                                                                       |
+|:----------------------------------------------------------------------------------------|:------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ואני                                                                                    |                                                 | εγω •^[Difference in sequence between MT and LXX, denoted after the first Hebrew word and before the second one, as well as between two Greek words.] δε |
+| לא                                                                                      |                                                 | ου                                                                                                                                                       |
+| אחוס                                                                                    |                                                 | φεισομαι                                                                                                                                                 |
+| על                                                                                      |                                                 | υπερ                                                                                                                                                     |
+| נינוה                                                                                   |                                                 | νινευη                                                                                                                                                   |
+| העיר                                                                                    |                                                 | της πολεως                                                                                                                                               |
+| הגדולה                                                                                  |                                                 | της μεγαλης                                                                                                                                              |
+| אשר •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] בה |                                                 | εν η                                                                                                                                                     |
+| יש                                                                                      | •^[Questionable notation, equivalent, etc.] ישב | κατοικουσιν                                                                                                                                              |
+| בה                                                                                      |                                                 | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.]                                                                         |
+| הרבה                                                                                    |                                                 | πλειους                                                                                                                                                  |
+| משתים עשרה                                                                              |                                                 | η δωδεκα                                                                                                                                                 |
+| רבו                                                                                     |                                                 | μυριαδες                                                                                                                                                 |
+| אדם                                                                                     |                                                 | ανθρωπων                                                                                                                                                 |
+| אשר                                                                                     |                                                 | οιτινες                                                                                                                                                  |
+| לא                                                                                      |                                                 | ουκ                                                                                                                                                      |
+| ידע בין                                                                                 |                                                 | εγνωσαν                                                                                                                                                  |
+| ימינו                                                                                   |                                                 | δεξιαν αυτων                                                                                                                                             |
+| לשמאלו                                                                                  |                                                 | η αριστεραν αυτων                                                                                                                                        |
+| ובהמה                                                                                   |                                                 | και κτηνη                                                                                                                                                |
+| רבה                                                                                     |                                                 | πολλα                                                                                                                                                    |
+: Jonah chapter 4, verse 11 { .hover tbl-colwidths="[35,30,35]"}
+
