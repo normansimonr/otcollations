@@ -1,0 +1,88 @@
+---
+title: "Book list"
+author: ""
+---
+
+[Genesis](collations/Genesis.qmd)
+
+[Exodus](collations/Exodus.qmd)
+
+[Leviticus](collations/Leviticus.qmd)
+
+[Numbers](collations/Numbers.qmd)
+
+[Deuteronomy](collations/Deuteronomy.qmd)
+
+[Joshua (Vaticanus)](collations/JoshuaB.qmd)
+
+[Joshua (Alexandrinus)](collations/JoshuaA.qmd)
+
+[Judges (Vaticanus)](collations/JudgesB.qmd)
+
+[Judges (Alexandrinus)](collations/JudgesA.qmd)
+
+[Ruth](collations/Ruth.qmd)
+
+[1 Samuel](collations/1Samuel.qmd)
+
+[2 Samuel](collations/2Samuel.qmd)
+
+[1 Kings](collations/1Kings.qmd)
+
+[2 Kings](collations/2Kings.qmd)
+
+[1 Chronicles](collations/1Chronicles.qmd)
+
+[2 Chronicles](collations/2Chronicles.qmd)
+
+[Esther](collations/Esther.qmd)
+
+[Ezra](collations/Ezra.qmd)
+
+[Nehemiah](collations/Nehemiah.qmd)
+
+[Psalms](collations/Psalms.qmd)
+
+[Proverbs](collations/Proverbs.qmd)
+
+[Ecclesiastes](collations/Ecclesiastes.qmd)
+
+[Song of Songs](collations/Song.qmd)
+
+[Job](collations/Job.qmd)
+
+[Hosea](collations/Hosea.qmd)
+
+[Micah](collations/Micah.qmd)
+
+[Amos](collations/Amos.qmd)
+
+[Joel](collations/Joel.qmd)
+
+[Jonah](collations/Jonah.qmd)
+
+[Obadiah](collations/Obadiah.qmd)
+
+[Nahum](collations/Nahum.qmd)
+
+[Habakkuk](collations/Habakkuk.qmd)
+
+[Zephaniah](collations/Zephaniah.qmd)
+
+[Haggai](collations/Haggai.qmd)
+
+[Zechariah](collations/Zechariah.qmd)
+
+[Malachi](collations/Malachi.qmd)
+
+[Isaiah](collations/Isaiah.qmd)
+
+[Jeremiah](collations/Jeremiah.qmd)
+
+[Lamentations](collations/Lamentations.qmd)
+
+[Ezekiel](collations/Ezekiel.qmd)
+
+[Daniel (Old Greek)](collations/DanielOG.qmd)
+
+[Daniel (Theodotion)](collations/DanielTh.qmd)
