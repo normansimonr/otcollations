@@ -1,6 +1,36 @@
 ---
-title: "The Septuagint in Hebrew, collated against the Masoretic text"
+title: "The Septuagint in Greek and Hebrew, collated against the Masoretic text"
+date: last-modified
+reference-location: document
 author: ""
 ---
 
-[asdasd](collations/Jonah.qmd)
+This website contains a parallel edition of the Masoretic text and the Greek Septuagint, with an additional retroversion of the Greek into Hebrew where the Septuagint's *Vorlage* seems to differ from the Masoretic text.
+
+In order to access the parallel edition, please visit the [book list](book_list.qmd).
+
+## Source files
+
+The source files have been taken from the website of the [Center for Computer Analysis of Texts](https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/) (CCAT) at the University of Pennsylvania. They have subsequently been [converted to Unicode](https://github.com/normansimonr/otcollations) and re-formatted for ease of visualisation. This website is *not* an official resource of the CCAT project nor of any of its members and is provided to the public merely as a convenience.
+
+This parallel edition, as stated in the [official website](https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/00.ReadReParallel.txt), is based on the Michigan-Claremont BHS consonantal text[^1] and the TLG LXX[^2], created by the CATSS[^3] project under the direction of Emanuel Tov (Jerusalem team). Each verse shows equivalent elements of the Masoretic text and the Septuagint. Occasionally, the Hebrew column splits into two columns: the first column records all elements of the Masoretic text as formal equivalents of the Septuagint. The second column is shown when the editors considered that the Greek translation was made from a different Hebrew text, in which case it contains a selection of retroverted readings, presumably found in the parent text of the Septuagint. At the same time, the retroversion column contains some remarks on differences between the Septuagint and the Masoretic text in matters of translation technique. In both matters no completeness was attempted.
+
+[^1]: The computer text produced initially under the direction of H. Van Dyke Parunak (then at Univ. Michigan) and Richard E. Whitaker (representing the Claremont Grad. Schools), with funding from the David and Lucile Packard Foundation. Subsequent revisions and verification were coordinated by Whitaker with input from a variety of sources and special support from the CATSS (Computer Assisted Tools for Septuagint Studies) Project and its teams at the Hebrew University (Jerusalem; under E. Tov) and at the Westminster Theological Seminary (Elkins Park, PA; under A. Groves) as well as at the University of Pennsylvania (Philadelphia). An early form of the Michigan-Claremont text provided the basis for the MIKRAH version, which in turn was further improved through cooperation with the Bar Ilan (Israel) computer center and the Maredsous (Belgium) based Centre: Informatique et Bible (CIB) directed by R. F. Poswick. The Michigan-Claremont text also has been collated against the CIB text. The latest revision (done at Westminster Seminary in July of 1987) corrected the text according to facsimiles of Codex Leningradensis.
+
+[^2]: The computer form prepared by the TLG (*Thesaurus Linguae Graecae*) Project directed by T. Brunner at the University of California, Irvine, with further verification and adaptation by CATSS towards conformity with the individual Göttingen editions that have appeared since 1935.
+
+[^3]: Computer Assisted Tools for Septuagint Studies.
+
+For a detailed description of the database, please consult Emanuel Tov, *A Computerized Data Base for Septuagint Studies: The Parallel Aligned Text of the Greek and Hebrew Bible*, Computer Assisted Tools for Septuagint Studies (CATSS) Volume 2, Stellenbosch: Journal of Northwest Semitic Languages, 1986.
+
+## Licence
+
+To see the licence that covers the source files, please visit the [CCAT website](https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/00.ReadMe.txt).
+
+The [Python code](https://github.com/normansimonr/otcollations) used to convert the files to Unicode is in the Public Domain.
+
+There are [Logos](https://www.logos.com/product/2209/the-parallel-aligned-hebrew-aramaic-and-greek-texts-of-jewish-scripture) and [Accordance](https://www.accordancebible.com/product/hebrew-masoretic-and-septuagint-parallel-2nd-edition/) modules based on the same files. Those editions are governed by their own licences.
+
+## Maintenance
+
+For matters related to the Unicode conversion and website issues, please open a [GitHub ticket](https://github.com/normansimonr/otcollations/issues). If you have questions or comments about the edition as such, please contact the [scholar in charge of its maintenance](https://ccat.sas.upenn.edu/gopher/).

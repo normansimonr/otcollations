@@ -5,6 +5,7 @@ project:
   - .nojekyll
   render: 
     - index.qmd
+    - book_list.qmd
     - collations/*.qmd
     
 
@@ -12,16 +13,17 @@ website:
   title: "The LXX and the Hebrew text"
   favicon: logo.png
   back-to-top-navigation: true
-  page-footer: "Version {{< var version >}}, data up-to-date as of {{< var listeupdated >}}"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+        - href: index.qmd
+          text: Home
+        - book_list.qmd
 
 format:
   html:
     reference-location: margin
-    theme: sandstone
+    theme: [sandstone, styles/customs.scss]
+    css: styles/styles.css
     toc: true
     toc-location: left
     fontsize: 21px
