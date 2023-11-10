@@ -1,0 +1,1838 @@
+# Ruth
+
+## Chapter 1
+
+### Verse 1
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint                                                |
+|:-----------------------|:---------------------|:------------------------------------------------------------------|
+| ויהי                   |                      | και εγενετο                                                       |
+| בימי                   | ב                    | εν •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]  |
+| שפט                    |                      | τω κρινειν                                                        |
+| השפטים                 |                      | τους κριτας                                                       |
+| ויהי                   |                      | και εγενετο                                                       |
+| רעב                    |                      | λιμος                                                             |
+| בארץ                   |                      | εν τη γη                                                          |
+| וילך                   |                      | και επορευθη                                                      |
+| איש                    |                      | ανηρ                                                              |
+| מבית לחם               |                      | απο βαιθλεεμ                                                      |
+| יהודה                  |                      | της ιουδα                                                         |
+| לגור                   |                      | του παροικησαι                                                    |
+| בשדי                   |                      | εν αγρω                                                           |
+| מואב                   |                      | μωαβ                                                              |
+| הוא                    |                      | αυτος                                                             |
+| ואשתו                  |                      | και η γυνη αυτου                                                  |
+| ושני                   |                      | και •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| בניו                   |                      | οι υιοι αυτου                                                     |
+: Ruth chapter 1, verse 1 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 2
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                     |
+|:---------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| ושם                                                                              | και ονομα                                                                                                              |
+| האיש                                                                             | τω ανδρι                                                                                                               |
+| אלימלך •^[Introducing reconstructed proper noun.] אבימלך .lb                     | αβιμελεχ                                                                                                               |
+| ושם                                                                              | και ονομα                                                                                                              |
+| אשתו                                                                             | τη γυναικι αυτου                                                                                                       |
+| נעמי                                                                             | νωεμιν                                                                                                                 |
+| ושם                                                                              | και ονομα                                                                                                              |
+| שני                                                                              | τοις δυσιν                                                                                                             |
+| בניו                                                                             | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] τοις υιοις αυτου                      |
+| מחלון                                                                            | μααλων                                                                                                                 |
+| וכליון                                                                           | και χελαιων                                                                                                            |
+| אפרתים                                                                           | εφραθαιοι                                                                                                              |
+| מבית לחם                                                                         | εκ βαιθλεεμ                                                                                                            |
+| יהודה                                                                            | της ιουδα                                                                                                              |
+| ויבאו                                                                            | και ηλθοσαν                                                                                                            |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εις                                                                                                                    |
+| שדי                                                                              | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις αγρον |
+| מואב                                                                             | μωαβ                                                                                                                   |
+| ויהיו                                                                            | και ησαν                                                                                                               |
+| שם                                                                               | εκει                                                                                                                   |
+: Ruth chapter 1, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                     | Rahlf's Septuagint                                                                             |
+|:---------------------------------------------------------|:-----------------------------------------------------------------------------------------------|
+| וימת                                                     | και απεθανεν                                                                                   |
+| אלימלך •^[Introducing reconstructed proper noun.] אבימלך | αβιμελεχ                                                                                       |
+| איש                                                      | ο ανηρ                                                                                         |
+| נעמי                                                     | της νωεμιν                                                                                     |
+| ותשאר                                                    | και κατελειφθη                                                                                 |
+| היא                                                      | αυτη                                                                                           |
+| ושני                                                     | και οι δυο                                                                                     |
+| בניה                                                     | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] οι υιοι αυτης |
+: Ruth chapter 1, verse 3 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 4
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וישאו                  | και ελαβοσαν         |
+| להם                    | εαυτοις              |
+| נשים                   | γυναικας             |
+| מאביות                 | μωαβιτιδας           |
+| שם                     | ονομα                |
+| האחת                   | τη μια               |
+| ערפה                   | ορφα                 |
+| ושם                    | και ονομα            |
+| השנית                  | τη δευτερα           |
+| רות                    | ρουθ                 |
+| וישבו                  | και κατωκησαν        |
+| שם                     | εκει                 |
+| כעשר                   | ως δεκα              |
+| שנים                   | ετη                  |
+: Ruth chapter 1, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)                                                                                       | Tov's retroversion   | Rahlf's Septuagint                                                                                         |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------------------------|
+| וימותו                                                                                                     |                      | και απεθανον                                                                                               |
+| גם                                                                                                         |                      | καιγε                                                                                                      |
+| שניהם                                                                                                      |                      | αμφοτεροι                                                                                                  |
+| מחלון                                                                                                      |                      | μααλων                                                                                                     |
+| וכליון                                                                                                     |                      | και χελαιων                                                                                                |
+| ותשאר                                                                                                      |                      | και κατελειφθη                                                                                             |
+| האשה                                                                                                       |                      | η γυνη                                                                                                     |
+| משני                                                                                                       |                      | •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] |
+| ילדיה                                                                                                      |                      | •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] |
+| ומאישה                                                                                                     |                      | απο του ανδρος αυτης                                                                                       |
+| •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] | ומשני                | και απο των δυο                                                                                            |
+| •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] | ילדיה                | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] των υιων αυτης            |
+: Ruth chapter 1, verse 5 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 6
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint       |
+|:----------------------------------------------------|:---------------------|:-------------------------|
+| ותקם                                                |                      | και ανεστη               |
+| היא                                                 |                      | αυτη                     |
+| •^[Element 'added' in the Greek (plus in the LXX).] | ושתי                 | και αι δυο               |
+| וכלתיה                                              |                      | {...και αι} νυμφαι αυτης |
+| ותשב                                                |                      | και απεστρεψαν           |
+| משדי                                                |                      | εξ αγρου                 |
+| מואב                                                |                      | μωαβ                     |
+| כי                                                  |                      | οτι                      |
+| שמעה                                                |                      | ηκουσαν                  |
+| בשדה                                                |                      | εν αγρω                  |
+| מואב                                                |                      | μωαβ                     |
+| כי                                                  |                      | οτι                      |
+| פקד                                                 |                      | επεσκεπται               |
+| יהוה                                                |                      | κυριος                   |
+| את עמו                                              |                      | τον λαον αυτου           |
+| לתת                                                 |                      | δουναι                   |
+| להם                                                 |                      | αυτοις                   |
+| לחם                                                 |                      | αρτους                   |
+: Ruth chapter 1, verse 6 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 7
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                                               |
+|:-----------------------|:-------------------------------------------------------------------------------------------------|
+| ותצא                   | και εξηλθεν                                                                                      |
+| מן                     | εκ                                                                                               |
+| המקום                  | του τοπου                                                                                        |
+| אשר                    | ου                                                                                               |
+| היתה                   | ην                                                                                               |
+| שמה                    | εκει                                                                                             |
+| ושתי                   | και αι δυο                                                                                       |
+| כלתיה                  | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] αι νυμφαι αυτης |
+| עמה                    | μετ' αυτης                                                                                       |
+| ותלכנה                 | και επορευοντο                                                                                   |
+| בדרך                   | εν τη οδω                                                                                        |
+| לשוב                   | του επιστρεψαι                                                                                   |
+| אל                     | εις                                                                                              |
+| ארץ                    | την γην                                                                                          |
+| יהודה                  | ιουδα                                                                                            |
+: Ruth chapter 1, verse 7 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 8
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                                                  |
+|:-----------------------|:----------------------------------------------------------------------------------------------------|
+| ותאמר                  | και ειπεν                                                                                           |
+| נעמי                   | νωεμιν                                                                                              |
+| לשתי                   | ταις •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                  |
+| כלתיה                  | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] ταις νυμφαις αυτης |
+| לכנה                   | πορευεσθε δη                                                                                        |
+| שבנה                   | αποστραφητε                                                                                         |
+| אשה                    | εκαστη                                                                                              |
+| לבית                   | εις οικον                                                                                           |
+| אמה                    | μητρος αυτης                                                                                        |
+| *יעשה **יעש            | ποιησαι                                                                                             |
+| יהוה                   | κυριος                                                                                              |
+| עמכם                   | μεθ' υμων                                                                                           |
+| חסד                    | ελεος                                                                                               |
+| כאשר                   | καθως                                                                                               |
+| עשיתם                  | εποιησατε                                                                                           |
+| עם                     | μετα                                                                                                |
+| המתים                  | των τεθνηκοτων                                                                                      |
+| ועמדי                  | και μετ' εμου                                                                                       |
+: Ruth chapter 1, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                   |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+| יתן                                                                              | δωη                                                                                                                  |
+| יהוה                                                                             | κυριος                                                                                                               |
+| לכם                                                                              | υμιν                                                                                                                 |
+| ומצאן                                                                            | και ευροιτε                                                                                                          |
+| מנוחה                                                                            | αναπαυσιν                                                                                                            |
+| אשה                                                                              | εκαστη                                                                                                               |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εν                                                                                                                   |
+| בית                                                                              | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εν οικω |
+| אישה                                                                             | ανδρος αυτης                                                                                                         |
+| ותשק                                                                             | και κατεφιλησεν                                                                                                      |
+| להן                                                                              | αυτας                                                                                                                |
+| ותשאנה                                                                           | και επηραν                                                                                                           |
+| קולן                                                                             | την φωνην αυτων                                                                                                      |
+| ותבכינה                                                                          | και εκλαυσαν                                                                                                         |
+: Ruth chapter 1, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ותאמרנה                | και ειπαν                                                     |
+| לה                     | αυτη                                                          |
+| כי                     | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| אתך                    | μετα σου                                                      |
+| נשוב                   | επιστρεφομεν                                                  |
+| לעמך                   | εις τον λαον σου                                              |
+: Ruth chapter 1, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותאמר                  | και ειπεν            |
+| נעמי                   | νωεμιν               |
+| שבנה                   | επιστραφητε δη       |
+| בנתי                   | θυγατερες μου        |
+| למה                    | και ινα τι           |
+| תלכנה                  | πορευεσθε            |
+| עמי                    | μετ' εμου            |
+| העוד                   | μη ετι               |
+| לי                     | μοι                  |
+| בנים                   | υιοι                 |
+| במעי                   | εν τη κοιλια μου     |
+| והיו                   | και εσονται          |
+| לכם                    | υμιν                 |
+| לאנשים                 | εις ανδρας           |
+: Ruth chapter 1, verse 11 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 12
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:--------------------------------------------------------------|
+| שבנה                                                | επιστραφητε δη                                                |
+| בנתי                                                | θυγατερες μου                                                 |
+| לכן                                                 | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| כי                                                  | διοτι                                                         |
+| זקנתי                                               | γεγηρακα                                                      |
+| מהיות                                               | του μη ειναι                                                  |
+| לאיש                                                | ανδρι                                                         |
+| כי                                                  | οτι                                                           |
+| אמרתי                                               | ειπα                                                          |
+| •^[Element 'added' in the Greek (plus in the LXX).] | οτι                                                           |
+| יש                                                  | εστιν                                                         |
+| לי                                                  | μοι                                                           |
+| תקוה                                                | υποστασις                                                     |
+| גם                                                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| הייתי                                               | του γενηθηναι με                                              |
+| הלילה                                               | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| לאיש                                                | ανδρι                                                         |
+| וגם                                                 | και                                                           |
+| ילדתי                                               | τεξομαι                                                       |
+| בנים                                                | υιους                                                         |
+: Ruth chapter 1, verse 12 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 13
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:--------------------------------------------------------------|
+| הלהן                                                | μη αυτους                                                     |
+| תשברנה                                              | προσδεξεσθε                                                   |
+| עד                                                  | εως                                                           |
+| אשר                                                 | ου                                                            |
+| יגדלו                                               | αδρυνθωσιν                                                    |
+| הלהן                                                | η αυτοις                                                      |
+| תעגנה                                               | κατασχεθησεσθε                                                |
+| לבלתי                                               | του μη                                                        |
+| היות                                                | γενεσθαι                                                      |
+| לאיש                                                | ανδρι                                                         |
+| אל                                                  | μη                                                            |
+| •^[Element 'added' in the Greek (plus in the LXX).] | δη                                                            |
+| בנתי                                                | θυγατερες μου                                                 |
+| כי                                                  | οτι                                                           |
+| מר                                                  | επικρανθη                                                     |
+| לי                                                  | μοι                                                           |
+| מאד                                                 | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| מכם                                                 | υπερ υμας                                                     |
+| כי                                                  | οτι                                                           |
+| יצאה                                                | εξηλθεν                                                       |
+| בי                                                  | εν εμοι                                                       |
+| יד                                                  | χειρ                                                          |
+| יהוה                                                | κυριου                                                        |
+: Ruth chapter 1, verse 13 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 14
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|:---------------------|
+| ותשנה                                               |                      | και επηραν           |
+| קולן                                                |                      | την φωνην αυτων      |
+| ותבכינה                                             |                      | και εκλαυσαν         |
+| עוד                                                 |                      | ετι                  |
+| ותשק                                                |                      | και κατεφιλησεν      |
+| ערפה                                                |                      | ορφα                 |
+| לחמותה                                              |                      | την πενθεραν αυτης   |
+| •^[Element 'added' in the Greek (plus in the LXX).] | ותשב                 | και επεστρεψεν       |
+| •^[Element 'added' in the Greek (plus in the LXX).] |                      | εις                  |
+| •^[Element 'added' in the Greek (plus in the LXX).] | עמה                  | τον λαον αυτης       |
+| ורות                                                |                      | ρουθ δε              |
+| דבקה                                                |                      | ηκολουθησεν          |
+| בה                                                  |                      | αυτη                 |
+: Ruth chapter 1, verse 14 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 15
+
+| Masoretic text (BHS)                                                                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------------------------------------------------------|:---------------------|:---------------------|
+| ותאמר                                                                                               |                      | και ειπεν            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] נעמי |                      | νωεμιν               |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                 | אל                   | προς                 |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] רות  |                      | ρουθ                 |
+| הנה                                                                                                 |                      | ιδου                 |
+| שבה                                                                                                 |                      | ανεστρεψεν           |
+| יבמתך                                                                                               |                      | η συννυμφος σου      |
+| אל                                                                                                  |                      | προς                 |
+| עמה                                                                                                 |                      | λαον αυτης           |
+| ואל                                                                                                 |                      | και προς             |
+| אלהיה                                                                                               |                      | τους θεους αυτης     |
+| שובי                                                                                                |                      | επιστραφητι          |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                 |                      | δη                   |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                 |                      | και                  |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                 |                      | συ                   |
+| אחרי                                                                                                |                      | οπισω                |
+| יבמתך                                                                                               |                      | της συννυμφου σου    |
+: Ruth chapter 1, verse 15 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 16
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                           |
+|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
+| ותאמר                                                                            | ειπεν δε                                                                                     |
+| רות                                                                              | ρουθ                                                                                         |
+| אל                                                                               | μη                                                                                           |
+| תפגעי                                                                            | απαντησαι                                                                                    |
+| בי                                                                               | εμοι                                                                                         |
+| לעזבך                                                                            | του καταλιπειν σε                                                                            |
+| לשוב                                                                             | η αποστρεψαι                                                                                 |
+| מאחריך                                                                           | οπισθεν σου                                                                                  |
+| כי                                                                               | οτι                                                                                          |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | συ                                                                                           |
+| אל אשר                                                                           | οπου εαν                                                                                     |
+| תלכי                                                                             | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] συ πορευθης |
+| אלך                                                                              | πορευσομαι                                                                                   |
+| ובאשר                                                                            | και ου εαν                                                                                   |
+| תליני                                                                            | αυλισθης                                                                                     |
+| אלין                                                                             | αυλισθησομαι                                                                                 |
+| עמך                                                                              | ο λαος σου                                                                                   |
+| עמי                                                                              | λαος μου                                                                                     |
+| ואלהיך                                                                           | και ο θεος σου                                                                               |
+| אלהי                                                                             | θεος μου                                                                                     |
+: Ruth chapter 1, verse 16 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 17
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint     |
+|:-----------------------|:---------------------|:-----------------------|
+| באשר                   |                      | και ου εαν             |
+| תמותי                  |                      | αποθανης               |
+| אמות                   |                      | αποθανουμαι            |
+| ושם                    |                      | κακει                  |
+| אקבר                   |                      | ταφησομαι              |
+| כה                     |                      | ταδε                   |
+| יעשה                   |                      | ποιησαι                |
+| יהוה                   | לי                   | μοι                    |
+| לי                     | יהוה                 | κυριος                 |
+| וכה                    |                      | και ταδε               |
+| יסיף                   |                      | προσθειη               |
+| כי                     |                      | οτι                    |
+| המות                   |                      | θανατος                |
+| יפריד                  |                      | διαστελει              |
+| ביני                   |                      | ανα μεσον εμου         |
+| ובינך                  |                      | και {..dανα μεσον} σου |
+: Ruth chapter 1, verse 17 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 18
+
+| Masoretic text (BHS)                                                                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------------------------------------------------------|:---------------------|:---------------------|
+| ותרא                                                                                                |                      | ιδουσα δε            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] נעמי |                      | νωεμιν               |
+| כי                                                                                                  |                      | οτι                  |
+| מתאמצת                                                                                              |                      | κραταιουται          |
+| היא                                                                                                 |                      | αυτη                 |
+| ללכת                                                                                                |                      | του πορευεσθαι       |
+| אתה                                                                                                 |                      | μετ' αυτης           |
+| ותחדל                                                                                               |                      | εκοπασεν             |
+| לדבר                                                                                                |                      | του λαλησαι          |
+| אליה                                                                                                |                      | προς αυτην           |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                 | עוד                  | ετι                  |
+: Ruth chapter 1, verse 18 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 19
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                        |
+|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| ותלכנה                                                                           | επορευθησαν δε                                                                                                            |
+| שתיהם                                                                            | αμφοτεραι                                                                                                                 |
+| עד                                                                               | εως                                                                                                                       |
+| באנה                                                                             | του παραγενεσθαι αυτας                                                                                                    |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εις                                                                                                                       |
+| בית לחם                                                                          | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις βαιθλεεμ |
+| ויהי                                                                             | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                             |
+| כבאנה                                                                            | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                             |
+| בית לחם                                                                          | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                             |
+| ותהם                                                                             | και ηχησεν                                                                                                                |
+| כל                                                                               | πασα                                                                                                                      |
+| העיר                                                                             | η πολις                                                                                                                   |
+| עליהן                                                                            | επ' αυταις                                                                                                                |
+| ותאמרנה                                                                          | και ειπον                                                                                                                 |
+| הזאת                                                                             | αυτη εστιν                                                                                                                |
+| נעמי                                                                             | νωεμιν                                                                                                                    |
+: Ruth chapter 1, verse 19 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 20
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|:---------------------|
+| ותאמר                                               |                      | και ειπεν            |
+| אליהן                                               |                      | προς αυτας           |
+| אל                                                  |                      | μη                   |
+| •^[Element 'added' in the Greek (plus in the LXX).] |                      | δη                   |
+| תקראנה                                              |                      | καλειτε              |
+| לי                                                  |                      | με                   |
+| נעמי                                                |                      | νωεμιν               |
+| קראן                                                |                      | καλεσατε             |
+| לי                                                  |                      | με                   |
+| מרא                                                 |                      | πικραν               |
+| כי                                                  |                      | οτι                  |
+| המר                                                 |                      | επικρανθη            |
+| שדי                                                 | לי <la1.4>           | εν εμοι              |
+| לי                                                  | שדי                  | ο ικανος             |
+| מאד                                                 |                      | σφοδρα               |
+: Ruth chapter 1, verse 20 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 21
+
+| Masoretic text (BHS)                          | Rahlf's Septuagint   |
+|:----------------------------------------------|:---------------------|
+| אני                                           | εγω                  |
+| מלאה                                          | πληρης               |
+| הלכתי                                         | επορευθην            |
+| וריקם                                         | και κενην            |
+| השיבני                                        | απεστρεψεν με        |
+| יהוה                                          | ο κυριος             |
+| למה                                           | και ινα τι           |
+| תקראנה                                        | καλειτε              |
+| לי                                            | με                   |
+| נעמי                                          | νωεμιν               |
+| ויהוה                                         | και κυριος           |
+| ענה •^[Difference in vocalization (reading).] | εταπεινωσεν          |
+| בי •^[Difference in preposition or particle.] | με                   |
+| ושדי                                          | και ο ικανος         |
+| הרע                                           | εκακωσεν             |
+| לי                                            | με                   |
+: Ruth chapter 1, verse 21 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 22
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                        |
+|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| ותשב                                                                             | και επεστρεψεν                                                                                                            |
+| נעמי                                                                             | νωεμιν                                                                                                                    |
+| ורות                                                                             | και ρουθ                                                                                                                  |
+| המואביה                                                                          | η μωαβιτις                                                                                                                |
+| כלתה                                                                             | η νυμφη αυτης                                                                                                             |
+| עמה                                                                              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                             |
+| השבה                                                                             | επιστρεφουσα                                                                                                              |
+| משדי                                                                             | εξ αγρου                                                                                                                  |
+| מואב                                                                             | μωαβ                                                                                                                      |
+| והמה                                                                             | αυται δε                                                                                                                  |
+| באו                                                                              | παρεγενηθησαν                                                                                                             |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εις                                                                                                                       |
+| בית לחם                                                                          | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] εις βαιθλεεμ |
+| בתחלת                                                                            | εν αρχη                                                                                                                   |
+| קציר                                                                             | θερισμου                                                                                                                  |
+| שערים                                                                            | κριθων                                                                                                                    |
+: Ruth chapter 1, verse 22 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 2
+
+### Verse 1
+
+| Masoretic text (BHS)                                     | Rahlf's Septuagint   |
+|:---------------------------------------------------------|:---------------------|
+| ולנעמי                                                   | και τη νωεμιν        |
+| *מידע **מודע                                             | ανηρ γνωριμος        |
+| לאישה                                                    | τω ανδρι αυτης       |
+| איש                                                      | ο δε ανηρ            |
+| גבור                                                     | δυνατος              |
+| חיל                                                      | ισχυι                |
+| ממשפחת                                                   | εκ της συγγενειας    |
+| אלימלך •^[Introducing reconstructed proper noun.] אבימלך | αβιμελεχ             |
+| ושמו                                                     | και ονομα αυτω       |
+| בעז                                                      | βοος                 |
+: Ruth chapter 2, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותאמר                  | και ειπεν            |
+| רות                    | ρουθ                 |
+| המואביה                | η μωαβιτις           |
+| אל                     | προς                 |
+| נעמי                   | νωεμιν               |
+| אלכה                   | πορευθω              |
+| נא                     | δη                   |
+| השדה                   | εις αγρον            |
+| ואלקטה                 | και συναξω           |
+| בשבלים                 | εν τοις σταχυσιν     |
+| אחר                    | κατοπισθεν           |
+| אשר                    | ου εαν               |
+| אמצא                   | ευρω                 |
+| חן                     | χαριν                |
+| בעיניו                 | εν οφθαλμοις αυτου   |
+| ותאמר                  | ειπεν δε             |
+| לה                     | αυτη                 |
+| לכי                    | πορευου              |
+| בתי                    | θυγατερ              |
+: Ruth chapter 2, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                     | Rahlf's Septuagint                                            |
+|:---------------------------------------------------------|:--------------------------------------------------------------|
+| ותלך                                                     | και επορευθη                                                  |
+| ותבוא                                                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ותלקט                                                    | και συνελεξεν                                                 |
+| בשדה                                                     | εν τω αγρω                                                    |
+| אחרי                                                     | κατοπισθεν                                                    |
+| הקצרים                                                   | των θεριζοντων                                                |
+| ויקר                                                     | και περιεπεσεν                                                |
+| מקרה •^[Difference in vocalization (reading).]           | περιπτωματι                                                   |
+| חלקת                                                     | τη μεριδι                                                     |
+| השדה                                                     | του αγρου                                                     |
+| לבעז                                                     | βοος                                                          |
+| אשר                                                      | του                                                           |
+| ממשפחת                                                   | εκ συγγενειας                                                 |
+| אלימלך •^[Introducing reconstructed proper noun.] אבימלך | αβιμελεχ                                                      |
+: Ruth chapter 2, verse 3 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 4
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| והנה                   | και ιδου             |
+| בעז                    | βοος                 |
+| בא                     | ηλθεν                |
+| מבית לחם               | εκ βαιθλεεμ          |
+| ויאמר                  | και ειπεν            |
+| לקוצרים                | τοις θεριζουσιν      |
+| יהוה                   | κυριος               |
+| עמכם                   | μεθ' υμων            |
+| ויאמרו                 | και ειπον            |
+| לו                     | αυτω                 |
+| יברכך                  | ευλογησαι σε         |
+| יהוה                   | κυριος               |
+: Ruth chapter 2, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויאמר                  | και ειπεν            |
+| בעז                    | βοος                 |
+| לנערו                  | τω παιδαριω αυτου    |
+| הנצב                   | τω εφεστωτι          |
+| על                     | επι                  |
+| הקוצרים                | τους θεριζοντας      |
+| למי                    | τινος                |
+| הנערה                  | η νεανις             |
+| הזאת                   | αυτη                 |
+: Ruth chapter 2, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויען                   | και απεκριθη         |
+| הנער                   | το παιδαριον         |
+| הנצב                   | το εφεστος           |
+| על                     | επι                  |
+| הקוצרים                | τους θεριζοντας      |
+| ויאמר                  | και ειπεν            |
+| נערה                   | η παις               |
+| מואביה                 | η μωαβιτις           |
+| היא                    | εστιν                |
+| השבה                   | η αποστραφεισα       |
+| עם                     | μετα                 |
+| נעמי                   | νωεμιν               |
+| משדה                   | εξ αγρου             |
+| מואב                   | μωαβ                 |
+: Ruth chapter 2, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)                           | Tov's retroversion   | Rahlf's Septuagint   |
+|:-----------------------------------------------|:---------------------|:---------------------|
+| ותאמר                                          |                      | και ειπεν            |
+| אלקטה                                          |                      | συλλεξω              |
+| נא                                             |                      | δη                   |
+| ואספתי                                         |                      | και συναξω           |
+| בעמרים                                         |                      | εν τοις δραγμασιν    |
+| אחרי                                           |                      | οπισθεν              |
+| הקוצרים                                        |                      | των θεριζοντων       |
+| ותבוא                                          |                      | και ηλθεν            |
+| ותעמוד                                         |                      | και εστη             |
+| מאז                                            |                      | απο                  |
+| הבקר                                           |                      | πρωιθεν              |
+| ועד                                            |                      | και εως              |
+| עתה                                            | ערב                  | εσπερας              |
+| זה                                             |                      | ου                   |
+| שבתה •^[Difference in vocalization (reading).] |                      | κατεπαυσεν           |
+| הבית                                           | בשדה                 | εν τω αγρω           |
+| מעט                                            |                      | μικρον               |
+: Ruth chapter 2, verse 7 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                          |
+|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
+| ויאמר                                                                            | και ειπεν                                                                                   |
+| בעז                                                                              | βοος                                                                                        |
+| אל                                                                               | προς                                                                                        |
+| רות                                                                              | ρουθ                                                                                        |
+| הלוא                                                                             | ουκ                                                                                         |
+| שמעת                                                                             | ηκουσας                                                                                     |
+| בתי                                                                              | θυγατερ                                                                                     |
+| אל                                                                               | μη                                                                                          |
+| תלכי                                                                             | πορευθης                                                                                    |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | εν αγρω                                                                                     |
+| ללקט                                                                             | συλλεξαι                                                                                    |
+| בשדה                                                                             | {..εν αγρω}                                                                                 |
+| אחר                                                                              | ετερω                                                                                       |
+| וגם                                                                              | και                                                                                         |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | συ                                                                                          |
+| לא                                                                               | ου                                                                                          |
+| תעבורי                                                                           | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] συ πορευση |
+| מזה                                                                              | εντευθεν                                                                                    |
+| וכה                                                                              | ωδε                                                                                         |
+| תדבקין                                                                           | κολληθητι                                                                                   |
+| עם                                                                               | μετα                                                                                        |
+| נערתי                                                                            | των κορασιων μου                                                                            |
+: Ruth chapter 2, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|:---------------------|
+| עיניך                  |                      | οι οφθαλμοι σου      |
+| בשדה                   |                      | εις τον αγρον        |
+| אשר                    |                      | ου εαν               |
+| יקצרון                 |                      | θεριζωσιν            |
+| והלכת                  |                      | και πορευση          |
+| אחריהן                 |                      | κατοπισθεν αυτων     |
+| הלוא                   | הנה                  | ιδου                 |
+| צויתי                  |                      | ενετειλαμην          |
+| את הנערים              |                      | τοις παιδαριοις      |
+| לבלתי                  |                      | του μη               |
+| נגעך                   |                      | αψασθαι σου          |
+| וצמת                   |                      | και ο τι διψησεις    |
+| והלכת                  |                      | και πορευθηση        |
+| אל                     |                      | εις                  |
+| הכלים                  |                      | τα σκευη             |
+| ושתית                  |                      | και πιεσαι           |
+| מאשר                   |                      | οθεν αν              |
+| ישאבון                 |                      | υδρευωνται           |
+| הנערים                 |                      | τα παιδαρια          |
+: Ruth chapter 2, verse 9 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 10
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותפל                   | και επεσεν           |
+| על                     | επι                  |
+| פניה                   | προσωπον αυτης       |
+| ותשתחו                 | και προσεκυνησεν     |
+| ארצה                   | επι την γην          |
+| ותאמר                  | και ειπεν            |
+| אליו                   | προς αυτον           |
+| מדוע                   | τι οτι               |
+| מצאתי                  | ευρον                |
+| חן                     | χαριν                |
+| בעיניך                 | εν οφθαλμοις σου     |
+| להכירני                | του επιγνωναι με     |
+| ואנכי                  | και εγω ειμι         |
+| נכריה                  | ξενη                 |
+: Ruth chapter 2, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויען                   | και απεκριθη         |
+| בעז                    | βοος                 |
+| ויאמר                  | και ειπεν            |
+| לה                     | αυτη                 |
+| הגד {!}nd              | απαγγελια            |
+| הגד {!}nd              | απηγγελη             |
+| לי                     | μοι                  |
+| כל אשר                 | οσα                  |
+| עשית                   | πεποιηκας            |
+| את                     | μετα                 |
+| חמותך                  | της πενθερας σου     |
+| אחרי                   | μετα                 |
+| מות                    | το αποθανειν         |
+| אישך                   | τον ανδρα σου        |
+| ותעזבי                 | και πως κατελιπες    |
+| אביך                   | τον πατερα σου       |
+| ואמך                   | και την μητερα σου   |
+| וארץ                   | και την γην          |
+| מולדתך                 | γενεσεως σου         |
+| ותלכי                  | και επορευθης        |
+| אל                     | προς                 |
+| עם                     | λαον                 |
+| אשר                    | ον                   |
+| לא                     | ουκ                  |
+| ידעת                   | ηδεις                |
+| תמול                   | εχθες                |
+| שלשום                  | και τριτης           |
+: Ruth chapter 2, verse 11 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 12
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|:---------------------|
+| ישלם                   |                      | αποτεισαι            |
+| יהוה                   |                      | κυριος               |
+| פעלך                   |                      | την εργασιαν σου     |
+| ותהי                   |                      | και γενοιτο          |
+| משכרתך                 |                      | ο μισθος σου         |
+| שלמה                   |                      | πληρης               |
+| מעם                    |                      | παρα                 |
+| יהוה                   |                      | κυριου               |
+| אלהי                   |                      | θεου                 |
+| ישראל                  |                      | ισραηλ               |
+| אשר                    |                      | προς ον              |
+| באת                    |                      | ηλθες                |
+| לחסות                  | לעשות .xע .sש        | πεποιθεναι           |
+| תחת                    |                      | υπο                  |
+| כנפיו                  |                      | τας πτερυγας αυτου   |
+: Ruth chapter 2, verse 12 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 13
+
+| Masoretic text (BHS)                                                             | Tov's retroversion   | Rahlf's Septuagint                                                                       |
+|:---------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------|
+| ותאמר                                                                            |                      | η δε ειπεν                                                                               |
+| אמצא                                                                             |                      | ευροιμι                                                                                  |
+| חן                                                                               |                      | χαριν                                                                                    |
+| בעיניך                                                                           |                      | εν οφθαλμοις σου                                                                         |
+| אדני                                                                             |                      | κυριε                                                                                    |
+| כי                                                                               |                      | οτι                                                                                      |
+| נחמתני                                                                           |                      | παρεκαλεσας με                                                                           |
+| וכי                                                                              |                      | και οτι                                                                                  |
+| דברת                                                                             |                      | ελαλησας                                                                                 |
+| על                                                                               |                      | επι                                                                                      |
+| לב                                                                               |                      | καρδιαν                                                                                  |
+| שפחתך                                                                            |                      | της δουλης σου                                                                           |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] |                      | και                                                                                      |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | הנה                  | ιδου                                                                                     |
+| ואנכי                                                                            |                      | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] και εγω |
+| לא                                                                               |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                            |
+| אהיה                                                                             |                      | εσομαι                                                                                   |
+| כאחת                                                                             |                      | ως μια                                                                                   |
+| שפחתיך                                                                           |                      | των παιδισκων σου                                                                        |
+: Ruth chapter 2, verse 13 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 14
+
+| Masoretic text (BHS)                                                                               | Tov's retroversion                                                                      | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:---------------------|
+| ויאמר                                                                                              |                                                                                         | και ειπεν            |
+| לה                                                                                                 |                                                                                         | αυτη                 |
+| בעז                                                                                                |                                                                                         | βοος                 |
+| לעת                                                                                                | •^[Questionable notation, equivalent, etc.] •^[Questionable notation, equivalent, etc.] | ηδη ωρα              |
+| האכל                                                                                               |                                                                                         | του φαγειν           |
+| גשי                                                                                                |                                                                                         | προσελθε             |
+| הלם                                                                                                |                                                                                         | ωδε                  |
+| ואכלת                                                                                              |                                                                                         | και φαγεσαι          |
+| מן הלחם                                                                                            |                                                                                         | των αρτων            |
+| וטבלת                                                                                              |                                                                                         | και βαψεις           |
+| פתך                                                                                                |                                                                                         | τον ψωμον σου        |
+| בחמץ                                                                                               |                                                                                         | εν τω οξει           |
+| ותשב                                                                                               |                                                                                         | και εκαθισεν         |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] רות |                                                                                         | ρουθ                 |
+| מצד                                                                                                |                                                                                         | εκ πλαγιων           |
+| הקוצרים                                                                                            |                                                                                         | των θεριζοντων       |
+| ויצבט •^[Etymological exegesis.] צבר .טr                                                           |                                                                                         | και εβουνισεν        |
+| לה                                                                                                 |                                                                                         | αυτη                 |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] בעז |                                                                                         | βοος                 |
+| קלי                                                                                                |                                                                                         | αλφιτον              |
+| ותאכל                                                                                              |                                                                                         | και εφαγεν           |
+| ותשבע                                                                                              |                                                                                         | και ενεπλησθη        |
+| ותתר                                                                                               |                                                                                         | και κατελιπεν        |
+: Ruth chapter 2, verse 14 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 15
+
+| Masoretic text (BHS)   | Rahlf's Septuagint    |
+|:-----------------------|:----------------------|
+| ותקם                   | και ανεστη            |
+| ללקט                   | του συλλεγειν         |
+| ויצו                   | και ενετειλατο        |
+| בעז                    | βοος                  |
+| את נעריו               | τοις παιδαριοις αυτου |
+| לאמר                   | λεγων                 |
+| גם                     | καιγε                 |
+| בין                    | ανα μεσον             |
+| העמרים                 | των δραγματων         |
+| תלקט                   | συλλεγετω             |
+| ולא                    | και μη                |
+| תכלימוה                | καταισχυνητε αυτην    |
+: Ruth chapter 2, verse 15 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 16
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                                                                                      |
+|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| וגם                                                                              | και •^[Reference to doublet (occurring between the two elements of the doublet.] •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] καιγε                 |
+| של                                                                               | βασταζοντες •^[Reference to doublet (occurring between the two elements of the doublet.] •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] παραβαλλοντες |
+| תשלו                                                                             | βασταξατε •^[Reference to doublet (occurring between the two elements of the doublet.] •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] παραβαλειτε     |
+| לה                                                                               | αυτη •^[Reference to doublet (occurring between the two elements of the doublet.] •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] αυτη                 |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | καιγε                                                                                                                                                                                   |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | παραβαλλοντες                                                                                                                                                                           |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | παραβαλειτε                                                                                                                                                                             |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | αυτη                                                                                                                                                                                    |
+| מן                                                                               | εκ                                                                                                                                                                                      |
+| הצבתים                                                                           | των βεβουνισμενων                                                                                                                                                                       |
+| ועזבתם                                                                           | και αφετε                                                                                                                                                                               |
+| ולקטה                                                                            | και συλλεξει                                                                                                                                                                            |
+| ולא                                                                              | και ουκ                                                                                                                                                                                 |
+| תגערו                                                                            | επιτιμησετε                                                                                                                                                                             |
+| בה                                                                               | αυτη                                                                                                                                                                                    |
+: Ruth chapter 2, verse 16 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 17
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותלקט                  | και συνελεξεν        |
+| בשדה                   | εν τω αγρω           |
+| עד                     | εως                  |
+| הערב                   | εσπερας              |
+| ותחבט                  | και ερραβδισεν       |
+| את אשר                 | α                    |
+| לקטה                   | συνελεξεν            |
+| ויהי                   | και εγενηθη          |
+| כאיפה                  | ως οιφι              |
+| שערים                  | κριθων               |
+: Ruth chapter 2, verse 17 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 18
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------------------------|:---------------------|
+| ותשא                                                                                               | και ηρεν             |
+| ותבוא                                                                                              | και εισηλθεν         |
+| העיר                                                                                               | εις την πολιν        |
+| ותרא                                                                                               | και ειδεν            |
+| חמותה                                                                                              | η πενθερα αυτης      |
+| את אשר                                                                                             | α                    |
+| לקטה                                                                                               | συνελεξεν            |
+| ותוצא                                                                                              | και εξενεγκασα       |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] רות | ρουθ                 |
+| ותתן                                                                                               | εδωκεν               |
+| לה                                                                                                 | αυτη                 |
+| את אשר                                                                                             | α                    |
+| הותרה                                                                                              | κατελιπεν            |
+| משבעה                                                                                              | εξ ων ενεπλησθη      |
+: Ruth chapter 2, verse 18 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 19
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint                                                               |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| ותאמר                                                                                              | και ειπεν                                                                        |
+| לה                                                                                                 | αυτη                                                                             |
+| חמותה                                                                                              | η πενθερα αυτης                                                                  |
+| איפה                                                                                               | που                                                                              |
+| לקטת                                                                                               | συνελεξας                                                                        |
+| היום                                                                                               | σημερον                                                                          |
+| ואנה                                                                                               | και που                                                                          |
+| עשית                                                                                               | εποιησας                                                                         |
+| יהי                                                                                                | ειη                                                                              |
+| מכירך                                                                                              | ο επιγνους σε                                                                    |
+| ברוך                                                                                               | ευλογημενος                                                                      |
+| ותגד                                                                                               | και απηγγειλεν                                                                   |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] רות | ρουθ                                                                             |
+| לחמותה                                                                                             | τη πενθερα αυτης                                                                 |
+| את אשר                                                                                             | που                                                                              |
+| עשתה                                                                                               | εποιησεν                                                                         |
+| עמו                                                                                                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                    |
+| ותאמר                                                                                              | και ειπεν                                                                        |
+| שם                                                                                                 | το ονομα                                                                         |
+| האיש                                                                                               | του ανδρος                                                                       |
+| אשר •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] עמו           | μεθ' ου                                                                          |
+| עשיתי                                                                                              | εποιησα                                                                          |
+| עמו                                                                                                | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] |
+| היום                                                                                               | σημερον                                                                          |
+| בעז                                                                                                | βοος                                                                             |
+: Ruth chapter 2, verse 19 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 20
+
+| Masoretic text (BHS)   | Rahlf's Septuagint        |
+|:-----------------------|:--------------------------|
+| ותאמר                  | και ειπεν                 |
+| נעמי                   | νωεμιν                    |
+| לכלתה                  | τη νυμφη αυτης            |
+| ברוך                   | ευλογητος                 |
+| הוא                    | εστιν                     |
+| ליהוה                  | τω κυριω                  |
+| אשר                    | οτι                       |
+| לא                     | ουκ                       |
+| עזב                    | εγκατελιπεν               |
+| חסדו                   | το ελεος αυτου            |
+| את                     | μετα                      |
+| החיים                  | των ζωντων                |
+| ואת                    | και μετα                  |
+| המתים                  | των τεθνηκοτων            |
+| ותאמר                  | και ειπεν                 |
+| לה                     | αυτη                      |
+| נעמי                   | νωεμιν                    |
+| קרוב                   | εγγιζει                   |
+| לנו                    | ημιν                      |
+| האיש                   | ο ανηρ                    |
+| מגאלנו                 | εκ των αγχιστευοντων ημας |
+| הוא                    | εστιν                     |
+: Ruth chapter 2, verse 20 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 21
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:---------------------|:--------------------------------------------------------------|
+| ותאמר                                               |                      | και ειπεν                                                     |
+| רות                                                 |                      | ρουθ                                                          |
+| המואביה                                             |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| •^[Element 'added' in the Greek (plus in the LXX).] |                      | προς                                                          |
+| •^[Element 'added' in the Greek (plus in the LXX).] | חמותה                | την πενθεραν αυτης                                            |
+| גם                                                  |                      | καιγε                                                         |
+| כי                                                  |                      | οτι                                                           |
+| אמר                                                 |                      | ειπεν                                                         |
+| אלי                                                 |                      | προς με                                                       |
+| עם                                                  |                      | μετα                                                          |
+| הנערים                                              |                      | των παιδαριων                                                 |
+| אשר לי                                              |                      | μου                                                           |
+| תדבקין                                              |                      | προσκολληθητι                                                 |
+| עד                                                  |                      | εως                                                           |
+| אם                                                  |                      | αν                                                            |
+| כלו                                                 |                      | τελεσωσιν                                                     |
+| את כל                                               |                      | ολον                                                          |
+| הקציר                                               |                      | τον αμητον                                                    |
+| אשר                                                 |                      | ος                                                            |
+| לי                                                  |                      | υπαρχει μοι                                                   |
+: Ruth chapter 2, verse 21 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 22
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותאמר                  | και ειπεν            |
+| נעמי                   | νωεμιν               |
+| אל                     | προς                 |
+| רות                    | ρουθ                 |
+| כלתה                   | την νυμφην αυτης     |
+| טוב                    | αγαθον               |
+| בתי                    | θυγατερ              |
+| כי                     | οτι                  |
+| תצאי                   | επορευθης            |
+| עם                     | μετα                 |
+| נערותיו                | των κορασιων αυτου   |
+| ולא                    | και ουκ              |
+| יפגעו                  | απαντησονται         |
+| בך                     | σοι                  |
+| בשדה                   | εν αγρω              |
+| אחר                    | ετερω                |
+: Ruth chapter 2, verse 22 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 23
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint                                                |
+|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|
+| ותדבק                                                                                              | και προσεκολληθη                                                  |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] רות | ρουθ                                                              |
+| בנערות                                                                                             | τοις κορασιοις                                                    |
+| בעז                                                                                                | βοος                                                              |
+| ללקט                                                                                               | συλλεγειν                                                         |
+| עד                                                                                                 | εως                                                               |
+| כלות •^[Difference in vocalization (reading).]                                                     | ου συνετελεσεν                                                    |
+| קציר                                                                                               | τον θερισμον                                                      |
+| השערים                                                                                             | των κριθων                                                        |
+| וקציר                                                                                              | και •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| החטים                                                                                              | των πυρων                                                         |
+| ותשב                                                                                               | και εκαθισεν                                                      |
+| את                                                                                                 | μετα                                                              |
+| חמותה                                                                                              | της πενθερας αυτης                                                |
+: Ruth chapter 2, verse 23 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 3
+
+### Verse 1
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותאמר                  | ειπεν δε             |
+| לה                     | αυτη                 |
+| נעמי                   | νωεμιν               |
+| חמותה                  | η πενθερα αυτης      |
+| בתי                    | θυγατερ              |
+| הלא                    | ου μη                |
+| אבקש                   | ζητησω               |
+| לך                     | σοι                  |
+| מנוח                   | αναπαυσιν            |
+| אשר                    | ινα                  |
+| ייטב                   | ευ γενηται           |
+| לך                     | σοι                  |
+: Ruth chapter 3, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ועתה                   | και νυν              |
+| הלא                    | ουχι                 |
+| בעז                    | βοος                 |
+| מדעתנו                 | γνωριμος ημων        |
+| אשר                    | ου                   |
+| היית                   | ης                   |
+| את                     | μετα                 |
+| נערותיו                | των κορασιων αυτου   |
+| הנה                    | ιδου                 |
+| הוא                    | αυτος                |
+| זרה                    | λικμα                |
+| את גרן                 | τον αλωνα            |
+| השערים                 | των κριθων           |
+| הלילה                  | ταυτη τη νυκτι       |
+: Ruth chapter 3, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                             | Tov's retroversion   | Rahlf's Septuagint   |
+|:-------------------------------------------------|:---------------------|:---------------------|
+| ורחצת                                            |                      | συ δε λουση          |
+| וסכת                                             |                      | και αλειψη           |
+| ושמת                                             |                      | και περιθησεις       |
+| *שמלתך **שמלתיך •^[Agreement of LXX with ketib.] |                      | τον ιματισμον σου    |
+| עליך                                             |                      | επι σεαυτη           |
+| *וירדתי **וירדת                                  |                      | και αναβηση          |
+| הגרן                                             |                      | επι τον αλω          |
+| אל                                               |                      | μη                   |
+| תודעי                                            |                      | γνωρισθης            |
+| לאיש                                             |                      | τω ανδρι             |
+| עד                                               |                      | εως ου               |
+| כלתו                                             |                      | συντελεσαι αυτον     |
+| לאכל                                             | לשתות                | πιειν                |
+| ולשתות                                           | ולאכל                | και φαγειν           |
+: Ruth chapter 3, verse 3 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 4
+
+| Masoretic text (BHS)   | Rahlf's Septuagint     |
+|:-----------------------|:-----------------------|
+| ויהי                   | και εσται              |
+| בשכבו                  | εν τω κοιμηθηναι αυτον |
+| וידעת                  | και γνωση              |
+| את המקום               | τον τοπον              |
+| אשר                    | οπου                   |
+| ישכב                   | κοιμαται               |
+| שם                     | εκει                   |
+| ובאת                   | και ελευση             |
+| וגלית                  | και αποκαλυψεις        |
+| מרגלתיו                | τα προς ποδων αυτου    |
+| *ושכבתי **ושכבת        | και κοιμηθηση          |
+| והוא                   | και αυτος              |
+| יגיד                   | απαγγελει              |
+| לך                     | σοι                    |
+| את אשר                 | α                      |
+| תעשין                  | ποιησεις               |
+: Ruth chapter 3, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint                                            |
+|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
+| ותאמר                                                                                              | ειπεν δε                                                      |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] רות | ρουθ                                                          |
+| אליה                                                                                               | προς αυτην                                                    |
+| כל                                                                                                 | παντα                                                         |
+| אשר                                                                                                | οσα εαν                                                       |
+| תאמרי                                                                                              | ειπης                                                         |
+| •^[Qere wela ketib, ketib wela qere.] **אלי •^[Agreement of LXX with ketib.]                       | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| אעשה                                                                                               | ποιησω                                                        |
+: Ruth chapter 3, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| ותרד                                                | και κατεβη           |
+| הגרן                                                | εις τον αλω          |
+| ותעש                                                | και εποιησεν         |
+| ככל                                                 | κατα παντα           |
+| אשר                                                 | οσα                  |
+| צותה                                                | ενετειλατο           |
+| •^[Element 'added' in the Greek (plus in the LXX).] | αυτη                 |
+| חמותה                                               | η πενθερα αυτης      |
+: Ruth chapter 3, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ויאכל                  | και εφαγεν                                                    |
+| בעז                    | βοος                                                          |
+| וישת                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וייטב                  | και ηγαθυνθη                                                  |
+| לבו                    | η καρδια αυτου                                                |
+| ויבא                   | και ηλθεν                                                     |
+| לשכב                   | κοιμηθηναι                                                    |
+| בקצה                   | εν μεριδι                                                     |
+| הערמה                  | της στοιβης                                                   |
+| ותבא                   | η δε ηλθεν                                                    |
+| בלט                    | κρυφη                                                         |
+| ותגל                   | και απεκαλυψεν                                                |
+| מרגלתיו                | τα προς ποδων αυτου                                           |
+| ותשכב                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Ruth chapter 3, verse 7 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                            |
+|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| ויהי                                                                             | εγενετο δε                                                                                                                    |
+| בחצי הלילה                                                                       | εν τω μεσονυκτιω                                                                                                              |
+| ויחרד                                                                            | και εξεστη                                                                                                                    |
+| האיש                                                                             | ο ανηρ                                                                                                                        |
+| וילפת                                                                            | και εταραχθη                                                                                                                  |
+| והנה                                                                             | και ιδου                                                                                                                      |
+| אשה                                                                              | γυνη                                                                                                                          |
+| שכבת                                                                             | κοιμαται                                                                                                                      |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | προς                                                                                                                          |
+| מרגלתיו                                                                          | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] προς ποδων αυτου |
+: Ruth chapter 3, verse 8 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויאמר                  | ειπεν δε             |
+| מי                     | τις                  |
+| את                     | ει συ                |
+| ותאמר                  | η δε ειπεν           |
+| אנכי                   | εγω ειμι             |
+| רות                    | ρουθ                 |
+| אמתך                   | η δουλη σου          |
+| ופרשת                  | και περιβαλεις       |
+| כנפך                   | το πτερυγιον σου     |
+| על                     | επι                  |
+| אמתך                   | την δουλην σου       |
+| כי                     | οτι                  |
+| גאל                    | αγχιστευς            |
+| אתה                    | ει συ                |
+: Ruth chapter 3, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------------------------|:---------------------|
+| ויאמר                                                                                              | και ειπεν            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] בעז | βοος                 |
+| ברוכה                                                                                              | ευλογημενη           |
+| את                                                                                                 | συ                   |
+| ליהוה                                                                                              | τω κυριω             |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                | θεω                  |
+| בתי                                                                                                | θυγατερ              |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                | οτι                  |
+| היטבת                                                                                              | ηγαθυνας             |
+| חסדך                                                                                               | το ελεος σου         |
+| האחרון                                                                                             | το εσχατον           |
+| מן                                                                                                 | υπερ                 |
+| הראשון                                                                                             | το πρωτον            |
+| לבלתי                                                                                              | το μη                |
+| לכת                                                                                                | πορευθηναι σε        |
+| אחרי                                                                                               | οπισω                |
+| הבחורים                                                                                            | νεανιων              |
+| אם                                                                                                 | ειτοι                |
+| דל                                                                                                 | πτωχος               |
+| ואם                                                                                                | ειτοι                |
+| עשיר                                                                                               | πλουσιος             |
+: Ruth chapter 3, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------|:---------------------|
+| ועתה                                                                             | και νυν              |
+| בתי                                                                              | θυγατερ              |
+| אל                                                                               | μη                   |
+| תיראי                                                                            | φοβου                |
+| כל                                                                               | παντα                |
+| אשר                                                                              | οσα εαν              |
+| תאמרי                                                                            | ειπης                |
+| אעשה                                                                             | ποιησω               |
+| לך                                                                               | σοι                  |
+| כי                                                                               | {..γαρ}              |
+| יודע                                                                             | οιδεν                |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | γαρ                  |
+| כל                                                                               | πασα                 |
+| שער                                                                              | φυλη                 |
+| עמי                                                                              | λαου μου             |
+| כי                                                                               | οτι                  |
+| אשת                                                                              | γυνη                 |
+| חיל                                                                              | δυναμεως             |
+| את                                                                               | ει συ                |
+: Ruth chapter 3, verse 11 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 12
+
+| Masoretic text (BHS)                       | Rahlf's Septuagint                                                |
+|:-------------------------------------------|:------------------------------------------------------------------|
+| ועתה                                       | και •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| כי                                         | οτι                                                               |
+| אמנם                                       | αληθως                                                            |
+| כי *אם **z •^[Agreement of LXX with qere.] | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]     |
+| גאל                                        | αγχιστευς                                                         |
+| אנכי                                       | εγω ειμι                                                          |
+| וגם                                        | καιγε                                                             |
+| יש                                         | εστιν                                                             |
+| גאל                                        | αγχιστευς                                                         |
+| קרוב                                       | εγγιων                                                            |
+| ממני                                       | υπερ εμε                                                          |
+: Ruth chapter 3, verse 12 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 13
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ליני                   | αυλισθητι            |
+| הלילה                  | την νυκτα            |
+| והיה                   | και εσται            |
+| בבקר                   | το πρωι              |
+| אם                     | εαν                  |
+| יגאלך                  | αγχιστευση σε        |
+| טוב                    | αγαθον               |
+| יגאל                   | αγχιστευετω          |
+| ואם                    | εαν δε               |
+| לא                     | μη                   |
+| יחפץ                   | βουληται             |
+| לגאלך                  | αγχιστευσαι σε       |
+| וגאלתיך                | αγχιστευσω σε        |
+| אנכי                   | εγω                  |
+| חי                     | ζη                   |
+| יהוה                   | κυριος               |
+| שכבי                   | κοιμηθητι            |
+| עד                     | εως                  |
+| הבקר                   | πρωι                 |
+: Ruth chapter 3, verse 13 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 14
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint                                                                                                            |
+|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| ותשכב                                                                                              | και εκοιμηθη                                                                                                                  |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.]                   | προς                                                                                                                          |
+| *מרגלתו **מרגלתיו                                                                                  | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] προς ποδων αυτου |
+| עד                                                                                                 | εως                                                                                                                           |
+| הבקר                                                                                               | πρωι                                                                                                                          |
+| ותקם                                                                                               | η δε ανεστη                                                                                                                   |
+| *בטרום **בטרם                                                                                      | προ                                                                                                                           |
+| יכיר                                                                                               | του επιγνωναι                                                                                                                 |
+| איש                                                                                                | ανδρα                                                                                                                         |
+| את רעהו                                                                                            | τον πλησιον αυτου                                                                                                             |
+| ויאמר                                                                                              | και ειπεν                                                                                                                     |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] בעז | βοος                                                                                                                          |
+| אל                                                                                                 | μη                                                                                                                            |
+| יודע                                                                                               | γνωσθητω                                                                                                                      |
+| כי                                                                                                 | οτι                                                                                                                           |
+| באה                                                                                                | ηλθεν                                                                                                                         |
+| האשה                                                                                               | γυνη                                                                                                                          |
+| הגרן                                                                                               | εις τον αλωνα                                                                                                                 |
+: Ruth chapter 3, verse 14 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 15
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:--------------------------------------------------------------|
+| ויאמר                                               | και ειπεν                                                     |
+| •^[Element 'added' in the Greek (plus in the LXX).] | αυτη                                                          |
+| הבי                                                 | φερε                                                          |
+| המטפחת                                              | το περιζωμα                                                   |
+| אשר                                                 | το                                                            |
+| עליך                                                | επανω σου                                                     |
+| ואחזי                                               | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| בה                                                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ותאחז                                               | και εκρατησεν                                                 |
+| בה                                                  | αυτο                                                          |
+| וימד                                                | και εμετρησεν                                                 |
+| שש                                                  | εξ                                                            |
+| שערים                                               | κριθων                                                        |
+| וישת                                                | και επεθηκεν                                                  |
+| עליה                                                | επ' αυτην                                                     |
+| ויבא                                                | και εισηλθεν                                                  |
+| העיר                                                | εις την πολιν                                                 |
+: Ruth chapter 3, verse 15 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 16
+
+| Masoretic text (BHS)                                                                                | Rahlf's Septuagint                                                                            |
+|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] ורות | και ρουθ                                                                                      |
+| ותבוא                                                                                               | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] και εισηλθεν |
+| אל                                                                                                  | προς                                                                                          |
+| חמותה                                                                                               | την πενθεραν αυτης                                                                            |
+| ותאמר                                                                                               | η δε ειπεν                                                                                    |
+| מי                                                                                                  | τις                                                                                           |
+| את                                                                                                  | ει                                                                                            |
+| בתי                                                                                                 | θυγατερ                                                                                       |
+| ותגד                                                                                                | και ειπεν                                                                                     |
+| לה                                                                                                  | αυτη                                                                                          |
+| את כל                                                                                               | παντα                                                                                         |
+| אשר                                                                                                 | οσα                                                                                           |
+| עשה                                                                                                 | εποιησεν                                                                                      |
+| לה                                                                                                  | αυτη                                                                                          |
+| האיש                                                                                                | ο ανηρ                                                                                        |
+: Ruth chapter 3, verse 16 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 17
+
+| Masoretic text (BHS)                                                        | Rahlf's Septuagint   |
+|:----------------------------------------------------------------------------|:---------------------|
+| ותאמר                                                                       | και ειπεν            |
+| •^[Element 'added' in the Greek (plus in the LXX).]                         | αυτη                 |
+| שש                                                                          | τα εξ                |
+| השערים                                                                      | των κριθων           |
+| האלה                                                                        | ταυτα                |
+| נתן                                                                         | εδωκεν               |
+| לי                                                                          | μοι                  |
+| כי                                                                          | οτι                  |
+| אמר                                                                         | ειπεν                |
+| •^[Qere wela ketib, ketib wela qere.] **אלי •^[Agreement of LXX with qere.] | προς με              |
+| אל                                                                          | μη                   |
+| תבואי                                                                       | εισελθης             |
+| ריקם                                                                        | κενη                 |
+| אל                                                                          | προς                 |
+| חמותך                                                                       | την πενθεραν σου     |
+: Ruth chapter 3, verse 17 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 18
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------|:---------------------|
+| ותאמר                                                                            | η δε ειπεν           |
+| שבי                                                                              | καθου                |
+| בתי                                                                              | θυγατερ              |
+| עד                                                                               | εως                  |
+| אשר                                                                              | του                  |
+| תדעין                                                                            | επιγνωναι σε         |
+| איך                                                                              | πως                  |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | ου                   |
+| יפל                                                                              | πεσειται             |
+| דבר                                                                              | ρημα                 |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | ου                   |
+| כי                                                                               | γαρ                  |
+| לא                                                                               | {..ου} μη            |
+| ישקט                                                                             | ησυχαση              |
+| האיש                                                                             | ο ανηρ               |
+| כי אם                                                                            | εως αν               |
+| כלה                                                                              | τελεση               |
+| הדבר                                                                             | το ρημα              |
+| היום                                                                             | σημερον              |
+: Ruth chapter 3, verse 18 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 4
+
+### Verse 1
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint                                                                                        |
+|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
+| ובעז                                                                                               | και βοος                                                                                                  |
+| עלה                                                                                                | ανεβη                                                                                                     |
+| השער                                                                                               | επι την πυλην                                                                                             |
+| וישב                                                                                               | και εκαθισεν                                                                                              |
+| שם                                                                                                 | εκει                                                                                                      |
+| והנה                                                                                               | και ιδου                                                                                                  |
+| הגאל                                                                                               | ο αγχιστευτης                                                                                             |
+| עבר                                                                                                | παρεπορευετο                                                                                              |
+| אשר                                                                                                | ον                                                                                                        |
+| דבר                                                                                                | ειπεν                                                                                                     |
+| בעז                                                                                                | βοος                                                                                                      |
+| ויאמר                                                                                              | και ειπεν                                                                                                 |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                | προς αυτον                                                                                                |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] בעז | βοος                                                                                                      |
+| סורה                                                                                               | εκκλινας                                                                                                  |
+| שבה                                                                                                | καθισον                                                                                                   |
+| פה                                                                                                 | ωδε                                                                                                       |
+| פלני                                                                                               | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Questionable notation, equivalent, etc.] |
+| {... •^[Questionable notation, equivalent, etc.] פלני} אלמני                                       | κρυφιε                                                                                                    |
+| ויסר                                                                                               | και εξεκλινεν                                                                                             |
+| וישב                                                                                               | και εκαθισεν                                                                                              |
+: Ruth chapter 4, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)                                                                               | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------------------------|:---------------------|
+| ויקח                                                                                               | και ελαβεν           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] בעז | βοος                 |
+| עשרה                                                                                               | δεκα                 |
+| אנשים                                                                                              | ανδρας               |
+| מזקני                                                                                              | απο των πρεσβυτερων  |
+| העיר                                                                                               | της πολεως           |
+| ויאמר                                                                                              | και ειπεν            |
+| שבו                                                                                                | καθισατε             |
+| פה                                                                                                 | ωδε                  |
+| וישבו                                                                                              | και εκαθισαν         |
+: Ruth chapter 4, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)                                                                               | Tov's retroversion                                                                      | Rahlf's Septuagint   |
+|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:---------------------|
+| ויאמר                                                                                              |                                                                                         | και ειπεν            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Introducing reconstructed proper noun.] בעז |                                                                                         | βοος                 |
+| לגאל                                                                                               |                                                                                         | τω αγχιστει          |
+| חלקת                                                                                               |                                                                                         | την μεριδα           |
+| השדה                                                                                               |                                                                                         | του αγρου            |
+| אשר                                                                                                |                                                                                         | η εστιν              |
+| לאחינו                                                                                             |                                                                                         | του αδελφου ημων     |
+| לאלימלך                                                                                            |                                                                                         | του αβιμελεχ         |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                                |                                                                                         | η                    |
+| מכרה                                                                                               | •^[Questionable notation, equivalent, etc.] •^[Questionable notation, equivalent, etc.] | δεδοται              |
+| נעמי                                                                                               |                                                                                         | νωεμιν               |
+| השבה                                                                                               |                                                                                         | τη επιστρεφουση      |
+| משדה                                                                                               |                                                                                         | εξ αγρου             |
+| מואב                                                                                               |                                                                                         | μωαβ                 |
+: Ruth chapter 4, verse 3 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 4
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואני                   | καγω                 |
+| אמרתי                  | ειπα                 |
+| אגלה                   | αποκαλυψω            |
+| אזנך                   | το ους σου           |
+| לאמר                   | λεγων                |
+| קנה                    | κτησαι               |
+| נגד                    | εναντιον             |
+| הישבים                 | των καθημενων        |
+| ונגד                   | και εναντιον         |
+| זקני                   | των πρεσβυτερων      |
+| עמי                    | του λαου μου         |
+| אם                     | ει                   |
+| תגאל                   | αγχιστευεις          |
+| גאל                    | αγχιστευε            |
+| ואם                    | ει δε                |
+| לא                     | μη                   |
+| יגאל                   | αγχιστευεις          |
+| הגידה                  | αναγγειλον           |
+| לי                     | μοι                  |
+| *ואדע **ואדעה          | και γνωσομαι         |
+| כי                     | οτι                  |
+| אין                    | ουκ εστιν            |
+| זולתך                  | παρεξ σου            |
+| לגאול                  | του αγχιστευσαι      |
+| ואנכי                  | καγω ειμι            |
+| אחריך                  | μετα σε              |
+| ויאמר                  | ο δε ειπεν           |
+| אנכי                   | εγω ειμι             |
+| אגאל                   | αγχιστευσω           |
+: Ruth chapter 4, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint    |
+|:----------------------------------------------------|:----------------------|
+| ויאמר                                               | και ειπεν             |
+| בעז                                                 | βοος                  |
+| ביום                                                | εν ημερα              |
+| קנותך                                               | του κτησασθαι σε      |
+| השדה                                                | τον αγρον             |
+| מיד                                                 | εκ χειρος             |
+| נעמי                                                | νωεμιν                |
+| ומאת                                                | και παρα              |
+| רות                                                 | ρουθ                  |
+| המואביה                                             | της μωαβιτιδος        |
+| אשת                                                 | γυναικος              |
+| המת                                                 | του τεθνηκοτος        |
+| •^[Element 'added' in the Greek (plus in the LXX).] | και αυτην             |
+| *קניתי **קניתה                                      | κτησασθαι σε δει      |
+| להקים                                               | ωστε αναστησαι        |
+| שם                                                  | το ονομα              |
+| המת                                                 | του τεθνηκοτος        |
+| על                                                  | επι                   |
+| נחלתו                                               | της κληρονομιας αυτου |
+: Ruth chapter 4, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)                                                                     | Rahlf's Septuagint                                                               |
+|:-----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| ויאמר                                                                                    | και ειπεν                                                                        |
+| הגאל                                                                                     | ο αγχιστευς                                                                      |
+| לא                                                                                       | ου                                                                               |
+| אוכל                                                                                     | δυνησομαι                                                                        |
+| *לגאול **לגאל                                                                            | αγχιστευσαι                                                                      |
+| לי                                                                                       | εμαυτω                                                                           |
+| פן                                                                                       | μηποτε                                                                           |
+| אשחית                                                                                    | διαφθειρω                                                                        |
+| את נחלתי                                                                                 | την κληρονομιαν μου                                                              |
+| גאל •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] אתה | αγχιστευσον                                                                      |
+| לך                                                                                       | σεαυτω                                                                           |
+| אתה                                                                                      | •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] |
+| את גאלתי                                                                                 | την αγχιστειαν μου                                                               |
+| כי                                                                                       | οτι                                                                              |
+| לא                                                                                       | ου                                                                               |
+| אוכל                                                                                     | δυνησομαι                                                                        |
+| לגאל                                                                                     | αγχιστευσαι                                                                      |
+: Ruth chapter 4, verse 6 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 7
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|:---------------------|
+| וזאת                                                |                      | και τουτο            |
+| •^[Element 'added' in the Greek (plus in the LXX).] | המשפט                | το δικαιωμα          |
+| לפנים                                               |                      | εμπροσθεν            |
+| בישראל                                              |                      | εν τω ισραηλ         |
+| על                                                  |                      | επι                  |
+| הגאולה                                              |                      | την αγχιστειαν       |
+| ועל                                                 |                      | και επι              |
+| התמורה                                              |                      | το ανταλλαγμα        |
+| לקים                                                |                      | του στησαι           |
+| כל                                                  |                      | παν                  |
+| דבר                                                 |                      | λογον                |
+| שלף                                                 |                      | και υπελυετο         |
+| איש                                                 |                      | ο ανηρ               |
+| נעלו                                                |                      | το υποδημα αυτου     |
+| ונתן                                                |                      | και εδιδου           |
+| לרעהו                                               |                      | τω πλησιον αυτου     |
+| •^[Element 'added' in the Greek (plus in the LXX).] | הגאל                 | τω αγχιστευοντι      |
+| •^[Element 'added' in the Greek (plus in the LXX).] | את גאלתו             | την αγχιστειαν αυτου |
+| וזאת                                                |                      | και τουτο ην         |
+| התעודה                                              |                      | μαρτυριον            |
+| בישראל                                              |                      | εν ισραηλ            |
+: Ruth chapter 4, verse 7 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|:---------------------|
+| ויאמר                                               |                      | και ειπεν            |
+| הגאל                                                |                      | ο αγχιστευς          |
+| לבעז                                                |                      | τω βοος              |
+| קנה                                                 |                      | κτησαι               |
+| לך                                                  |                      | σεαυτω               |
+| •^[Element 'added' in the Greek (plus in the LXX).] | גאלתי                | την αγχιστειαν μου   |
+| וישלף                                               |                      | και υπελυσατο        |
+| נעלו                                                |                      | το υποδημα αυτου     |
+| •^[Element 'added' in the Greek (plus in the LXX).] | ויתן                 | και εδωκεν           |
+| •^[Element 'added' in the Greek (plus in the LXX).] |                      | αυτω                 |
+: Ruth chapter 4, verse 8 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 9
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויאמר                  | και ειπεν            |
+| בעז                    | βοος                 |
+| לזקנים                 | τοις πρεσβυτεροις    |
+| וכל                    | και παντι            |
+| העם                    | τω λαω               |
+| עדים                   | μαρτυρες             |
+| אתם                    | υμεις                |
+| היום                   | σημερον              |
+| כי                     | οτι                  |
+| קניתי                  | κεκτημαι             |
+| את כל                  | παντα                |
+| אשר                    | τα                   |
+| לאלימלך                | του αβιμελεχ         |
+| ואת                    | και                  |
+| כל                     | παντα                |
+| אשר                    | οσα                  |
+| לכליון                 | υπαρχει τω χελαιων   |
+| ומחלון                 | και τω μααλων        |
+| מיד                    | εκ χειρος            |
+| נעמי                   | νωεμιν               |
+: Ruth chapter 4, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)   | Rahlf's Septuagint    |
+|:-----------------------|:----------------------|
+| וגם                    | καιγε                 |
+| את רות                 | ρουθ                  |
+| המאביה                 | την μωαβιτιν          |
+| אשת                    | την γυναικα           |
+| מחלון                  | μααλων                |
+| קניתי                  | κεκτημαι              |
+| לי                     | εμαυτω                |
+| לאשה                   | εις γυναικα           |
+| להקים                  | του αναστησαι         |
+| שם                     | το ονομα              |
+| המת                    | του τεθνηκοτος        |
+| על                     | επι                   |
+| נחלתו                  | της κληρονομιας αυτου |
+| ולא                    | και ουκ               |
+| יכרת                   | εξολεθρευθησε         |
+| שם                     | το ονομα              |
+| המת                    | του τεθνηκοτος        |
+| מעם                    | εκ                    |
+| אחיו                   | των αδελφων αυτου     |
+| ומשער                  | και εκ της φυλης      |
+| מקומו                  | λαου αυτου            |
+| עדים                   | μαρτυρες              |
+| אתם                    | υμεις                 |
+| היום                   | σημερον               |
+: Ruth chapter 4, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)                                                                                       | Tov's retroversion   | Rahlf's Septuagint                                                                                         |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------------------------|
+| ויאמרו                                                                                                     |                      | και ειποσαν                                                                                                |
+| כל                                                                                                         |                      | πας                                                                                                        |
+| העם                                                                                                        |                      | ο λαος                                                                                                     |
+| אשר                                                                                                        |                      | οι                                                                                                         |
+| בשער                                                                                                       |                      | εν τη πυλη                                                                                                 |
+| •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] | עדים                 | μαρτυρες                                                                                                   |
+| והזקנים                                                                                                    |                      | και οι πρεσβυτεροι                                                                                         |
+| עדים                                                                                                       |                      | •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] |
+| •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                              |                      | ειποσαν                                                                                                    |
+| יתן                                                                                                        |                      | δωη                                                                                                        |
+| יהוה                                                                                                       |                      | κυριος                                                                                                     |
+| את האשה                                                                                                    |                      | την γυναικα σου                                                                                            |
+| הבאה                                                                                                       |                      | την εισπορευομενην                                                                                         |
+| אל                                                                                                         |                      | εις                                                                                                        |
+| ביתך                                                                                                       |                      | τον οικον σου                                                                                              |
+| כרחל                                                                                                       |                      | ως ραχηλ                                                                                                   |
+| וכלאה                                                                                                      |                      | και ως λειαν                                                                                               |
+| אשר                                                                                                        |                      | αι                                                                                                         |
+| בנו                                                                                                        |                      | ωκοδομησαν                                                                                                 |
+| שתיהם                                                                                                      |                      | αμφοτεραι                                                                                                  |
+| את בית                                                                                                     |                      | τον οικον                                                                                                  |
+| ישראל                                                                                                      |                      | ισραηλ                                                                                                     |
+| ועשה                                                                                                       |                      | και εποιησαν                                                                                               |
+| חיל                                                                                                        |                      | δυναμιν                                                                                                    |
+| באפרתה                                                                                                     |                      | εν εφραθα                                                                                                  |
+| וקרא                                                                                                       |                      | και εσται                                                                                                  |
+| שם                                                                                                         |                      | ονομα                                                                                                      |
+| בבית לחם                                                                                                   |                      | εν βαιθλεεμ                                                                                                |
+: Ruth chapter 4, verse 11 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 12
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויהי                   | και γενοιτο          |
+| ביתך                   | ο οικος σου          |
+| כבית                   | ως ο οικος           |
+| פרץ                    | φαρες                |
+| אשר                    | ον                   |
+| ילדה                   | ετεκεν               |
+| תמר                    | θαμαρ                |
+| ליהודה                 | τω ιουδα             |
+| מן                     | εκ                   |
+| הזרע                   | του σπερματος        |
+| אשר                    | ου                   |
+| יתן                    | δωσει                |
+| יהוה                   | κυριος               |
+| לך                     | σοι                  |
+| מן                     | εκ                   |
+| הנערה                  | της παιδισκης        |
+| הזאת                   | ταυτης               |
+: Ruth chapter 4, verse 12 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 13
+
+| Masoretic text (BHS)                                                                                       | Tov's retroversion   | Rahlf's Septuagint                                                                                         |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------------------------|
+| ויקח                                                                                                       |                      | και ελαβεν                                                                                                 |
+| בעז                                                                                                        |                      | βοος                                                                                                       |
+| את רות                                                                                                     |                      | την ρουθ                                                                                                   |
+| ותהי                                                                                                       |                      | και εγενηθη                                                                                                |
+| לו                                                                                                         |                      | αυτω                                                                                                       |
+| לאשה                                                                                                       |                      | εις γυναικα                                                                                                |
+| ויבא                                                                                                       |                      | και εισηλθεν                                                                                               |
+| אליה                                                                                                       |                      | προς αυτην                                                                                                 |
+| ויתן                                                                                                       |                      | και εδωκεν                                                                                                 |
+| •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] | לה                   | αυτη                                                                                                       |
+| יהוה                                                                                                       |                      | κυριος                                                                                                     |
+| לה                                                                                                         |                      | •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] |
+| הריון                                                                                                      |                      | κυησιν                                                                                                     |
+| ותלד                                                                                                       |                      | και ετεκεν                                                                                                 |
+| בן                                                                                                         |                      | υιον                                                                                                       |
+: Ruth chapter 4, verse 13 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 14
+
+| Masoretic text (BHS)                                                                                       | Tov's retroversion   | Rahlf's Septuagint                                                                                         |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------------------------|
+| ותאמרנה                                                                                                    |                      | και ειπαν                                                                                                  |
+| הנשים                                                                                                      |                      | αι γυναικες                                                                                                |
+| אל                                                                                                         |                      | προς                                                                                                       |
+| נעמי                                                                                                       |                      | νωεμιν                                                                                                     |
+| ברוך                                                                                                       |                      | ευλογητος                                                                                                  |
+| יהוה                                                                                                       |                      | κυριος                                                                                                     |
+| אשר                                                                                                        |                      | ος                                                                                                         |
+| לא                                                                                                         |                      | ου                                                                                                         |
+| השבית                                                                                                      |                      | κατελυσε                                                                                                   |
+| לך                                                                                                         |                      | σοι                                                                                                        |
+| •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] | היום                 | σημερον                                                                                                    |
+| גאל                                                                                                        |                      | τον αγχιστεα                                                                                               |
+| היום                                                                                                       |                      | •^[Equivalent of the Hebrew or Greek word(s) occurring elsewhere in the verse or context (transposition).] |
+| ויקרא                                                                                                      |                      | και καλεσαι                                                                                                |
+| שמו                                                                                                        |                      | το ονομα σου                                                                                               |
+| בישראל                                                                                                     |                      | εν ισραηλ                                                                                                  |
+: Ruth chapter 4, verse 14 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 15
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| והיה                   | και εσται            |
+| לך                     | σοι                  |
+| למשיב                  | εις επιστρεφοντα     |
+| נפש                    | ψυχην                |
+| ולכלכל                 | και του διαθρεψαι    |
+| את שיבתך               | την πολιαν σου       |
+| כי                     | οτι                  |
+| כלתך                   | η νυμφη σου          |
+| אשר                    | η                    |
+| אהבתך                  | αγαπησασα σε         |
+| ילדתו                  | ετεκεν αυτον         |
+| אשר                    | η                    |
+| היא                    | εστιν                |
+| טובה                   | αγαθη                |
+| לך                     | σοι                  |
+| משבעה                  | υπερ επτα            |
+| בנים                   | υιους                |
+: Ruth chapter 4, verse 15 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 16
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותקח                   | και ελαβεν           |
+| נעמי                   | νωεμιν               |
+| את הילד                | το παιδιον           |
+| ותשתהו                 | και εθηκεν           |
+| בחיקה                  | εις τον κολπον αυτης |
+| ותהי                   | και εγενηθη          |
+| לו                     | αυτω                 |
+| לאמנת                  | εις τιθηνον          |
+: Ruth chapter 4, verse 16 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 17
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ותקראנה                | και εκαλεσαν         |
+| לו                     | αυτου                |
+| השכנות                 | αι γειτονες          |
+| שם                     | ονομα                |
+| לאמר                   | λεγουσαι             |
+| ילד                    | ετεχθη               |
+| בן                     | υιος                 |
+| לנעמי                  | τη νωεμιν            |
+| ותקראנה                | και εκαλεσαν         |
+| שמו                    | το ονομα αυτου       |
+| עובד                   | ωβηδ                 |
+| הוא                    | ουτος                |
+| אבי                    | πατηρ                |
+| ישי                    | ιεσσαι               |
+| אבי                    | πατρος               |
+| דוד                    | δαυιδ                |
+: Ruth chapter 4, verse 17 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 18
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואלה                   | και αυται            |
+| תולדות                 | αι γενεσεις          |
+| פרץ                    | φαρες                |
+| פרץ                    | φαρες                |
+| הוליד                  | εγεννησεν            |
+| את חצרון               | τον εσρων            |
+: Ruth chapter 4, verse 18 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 19
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וחצרון                 | εσρων δε             |
+| הוליד                  | εγεννησεν            |
+| את רם                  | τον αρραν            |
+| ורם                    | και αρραν            |
+| הוליד                  | εγεννησεν            |
+| את עמינדב              | τον αμιναδαβ         |
+: Ruth chapter 4, verse 19 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 20
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ועמינדב                | και αμιναδαβ         |
+| הוליד                  | εγεννησεν            |
+| את נחשון               | τον ναασσων          |
+| ונחשון                 | και ναασσων          |
+| הוליד                  | εγεννησεν            |
+| את שלמה                | τον σαλμαν           |
+: Ruth chapter 4, verse 20 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 21
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ושלמון                 | και σαλμαν           |
+| הוליד                  | εγεννησεν            |
+| את בעז                 | τον βοος             |
+| ובעז                   | και βοος             |
+| הוליד                  | εγεννησεν            |
+| את עובד                | τον ωβηδ             |
+: Ruth chapter 4, verse 21 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 22
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ועבד                   | και ωβηδ             |
+| הוליד                  | εγεννησεν            |
+| את ישי                 | τον ιεσσαι           |
+| וישי                   | και ιεσσαι           |
+| הוליד                  | εγεννησεν            |
+| את דוד                 | τον δαυιδ            |
+: Ruth chapter 4, verse 22 { .hover tbl-colwidths="[50,50]"}
+

@@ -1,0 +1,1197 @@
+# Joshua (Alexandrinus)
+
+## Chapter 15
+
+### Verse 21
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| ויהיו                                               | εγενηθησαν δε        |
+| הערים                                               | αι πολεις αυτων      |
+| •^[Element 'added' in the Greek (plus in the LXX).] | πολις                |
+| מקצה                                                | πρωτη                |
+| למטה                                                | φυλης                |
+| בני                                                 | υιων                 |
+| יהודה                                               | ιουδα                |
+| אל                                                  | εφ'                  |
+| גבול                                                | οριων                |
+| אדום                                                | εδωμ                 |
+| בנגבה                                               | επι της ερημου       |
+| קבצאל                                               | καβσεηλ              |
+| ועדר                                                | και εδραι            |
+| ויגור                                               | και ιαγουρ           |
+: Joshua (Alexandrinus) chapter 15, verse 21 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 22
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וקינה                  | και κινα             |
+| ודימונה                | και διμωνα           |
+| ועדעדה                 | και αδαδα            |
+: Joshua (Alexandrinus) chapter 15, verse 22 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 23
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| וקדש                   | και κεδες                                                     |
+| וחצור                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ויתנן זיף              | και ιθναζιφ [24]                                              |
+: Joshua (Alexandrinus) chapter 15, verse 23 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 24
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וטלם                   | και τελεμ            |
+| ובעלות                 | και βαλωθ            |
+: Joshua (Alexandrinus) chapter 15, verse 24 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 25
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| וחצור                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| חדתה                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וקריות                 | και πολις                                                     |
+| חצרון                  | ασερων                                                        |
+| היא                    | αυτη                                                          |
+| חצור                   | ασωρ                                                          |
+: Joshua (Alexandrinus) chapter 15, verse 25 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 26
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| אמם                    | αμαμ                 |
+| ושמע                   | και σαμαα            |
+| ומולדה                 | και μωλαδα           |
+: Joshua (Alexandrinus) chapter 15, verse 26 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 27
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| וחצר גדה               | και ασεργαδδα                                                 |
+| וחשמון                 | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ובית פלט               | και βαιθφαλεθ                                                 |
+: Joshua (Alexandrinus) chapter 15, verse 27 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 28
+
+| Masoretic text (BHS)                                                  | Rahlf's Septuagint    |
+|:----------------------------------------------------------------------|:----------------------|
+| וחצר שועל                                                             | και ασαρσουλα         |
+| ובאר שבע                                                              | και βηρσαβεε          |
+| ובזיותיה =;ובנותיהן <15.45>                                           | και αι κωμαι αυτων    |
+| •^[Element 'added' in the Greek (plus in the LXX).] =;וחצריהן <15.45> | και αι επαυλεις αυτων |
+: Joshua (Alexandrinus) chapter 15, verse 28 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 29
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| בעלה                   | βααλα                |
+| ועיים                  | και αυιμ             |
+| ועצם                   | και ασεμ             |
+: Joshua (Alexandrinus) chapter 15, verse 29 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 30
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואלתולד                | και ελθωδαδ          |
+| וכסיל                  | και χασιλ            |
+| וחרמה                  | και ερμα             |
+: Joshua (Alexandrinus) chapter 15, verse 30 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 31
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וצקלג                  | και σικελεγ          |
+| ומדמנה                 | και μεδεβηνα         |
+| וסנסנה                 | και σανσαννα         |
+: Joshua (Alexandrinus) chapter 15, verse 31 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 32
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ולבאות                 | και λαβωθ                                                     |
+| ושלחים                 | και σελειμ                                                    |
+| ועין                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ורמון                  | και ρεμμων                                                    |
+| כל                     | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ערים                   | πολεις                                                        |
+| עשרים ותשע             | εικοσι και εννεα                                              |
+| וחצריהן                | και αι κωμαι αυτων                                            |
+: Joshua (Alexandrinus) chapter 15, verse 32 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 33
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| בשפלה                  | εν τη πεδινη         |
+| אשתאול                 | εσθαολ               |
+| וצרעה                  | και σαραα            |
+| ואשנה                  | και ασνα             |
+: Joshua (Alexandrinus) chapter 15, verse 33 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 34
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:--------------------------------------------------------------|
+| •^[Element 'added' in the Greek (plus in the LXX).] | και ραμεν                                                     |
+| וזנוח                                               | και ζανω                                                      |
+| ועין גנים                                           | και αδιαθαιμ                                                  |
+| תפוח                                                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| והעינם                                              | και ηναιμ                                                     |
+: Joshua (Alexandrinus) chapter 15, verse 34 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 35
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| ירמות                                               | και ιεριμουθ         |
+| ועדלם                                               | και οδολλαμ          |
+| •^[Element 'added' in the Greek (plus in the LXX).] | και νεμρα            |
+| שוכה                                                | και σωχω             |
+| ועזקה                                               | και αζηκα            |
+: Joshua (Alexandrinus) chapter 15, verse 35 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 36
+
+| Masoretic text (BHS)                                                 | Rahlf's Septuagint                                            |
+|:---------------------------------------------------------------------|:--------------------------------------------------------------|
+| ושערים                                                               | και σαργαριμ                                                  |
+| ועדיתים                                                              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| והגדרה                                                               | και γαδηρα                                                    |
+| וגדרתים                                                              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| •^[Element 'added' in the Greek (plus in the LXX).] =;וחצריה <15.45> | και αι επαυλεις αυτης                                         |
+| ערים                                                                 | πολεις                                                        |
+| ארבע עשרה                                                            | δεκα τεσσαρες                                                 |
+| וחצריהן                                                              | και αι κωμαι αυτων                                            |
+: Joshua (Alexandrinus) chapter 15, verse 36 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 37
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| צנן                    | σενναν               |
+| וחדשה                  | και αδασα            |
+| ומגדל גד               | και μαγδαλγαδ        |
+: Joshua (Alexandrinus) chapter 15, verse 37 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 38
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ודלען                  | και δαλααν           |
+| והמצפה                 | και μασφα            |
+| ויקתאל                 | και ιεχθαηλ          |
+: Joshua (Alexandrinus) chapter 15, verse 38 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 39
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| לכיש                   | και λαχις            |
+| ובצקת                  | και βαζκαθ           |
+| ועגלון                 | και αγλων            |
+: Joshua (Alexandrinus) chapter 15, verse 39 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 40
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וכבון                  | και χαββα            |
+| ולחמס                  | και λαμας            |
+| וכתליש                 | και χαθλως           |
+: Joshua (Alexandrinus) chapter 15, verse 40 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 41
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וגדרות                 | και γαδηρωθ          |
+| בית דגון               | και βηθδαγων         |
+| ונעמה                  | και νωμα             |
+| ומקדה                  | και μακηδα           |
+| ערים                   | πολεις               |
+| שש עשרה                | δεκαεξ               |
+| וחצריהן                | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 41 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 42
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| לבנה                   | λεβνα                                                         |
+| ועתר                   | και αθερ                                                      |
+| ועשן                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 15, verse 42 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 43
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויפתח                  | και ιεφθα            |
+| ואשנה                  | και ασεννα           |
+| ונציב                  | και νεσιβ            |
+: Joshua (Alexandrinus) chapter 15, verse 43 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 44
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| וקעילה                                              | και κειλα            |
+| ואכזיב                                              | και αχζιβ            |
+| ומראשה                                              | και μαρησα           |
+| •^[Element 'added' in the Greek (plus in the LXX).] | και εδωμ             |
+| ערים                                                | πολεις               |
+| תשע                                                 | εννεα                |
+| וחצריהן                                             | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 44 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 45
+
+| Masoretic text (BHS)   | Rahlf's Septuagint    |
+|:-----------------------|:----------------------|
+| עקרון                  | ακκαρων               |
+| ובנתיה                 | και αι κωμαι αυτης    |
+| וחצריה                 | και αι επαυλεις αυτης |
+: Joshua (Alexandrinus) chapter 15, verse 45 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 46
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| מעקרון                 | και απο ακκαρων      |
+| וימה                   | ιεμναι               |
+| כל                     | και πασαι            |
+| אשר                    | οσαι εισιν           |
+| על יד                  | πλησιον              |
+| אשדוד                  | ασδωδ                |
+| וחצריהן                | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 46 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 47
+
+| Masoretic text (BHS)                           | Rahlf's Septuagint                                                  |
+|:-----------------------------------------------|:--------------------------------------------------------------------|
+| אשדוד                                          | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]       |
+| בנותיה                                         | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] αυτης |
+| וחצריה                                         | και αι επαυλεις αυτης                                               |
+| עזה                                            | γαζα                                                                |
+| בנותיה                                         | και αι κωμαι αυτης                                                  |
+| וחצריה                                         | και αι επαυλεις αυτης                                               |
+| עד                                             | εως                                                                 |
+| נחל                                            | του χειμαρρου                                                       |
+| מצרים                                          | αιγυπτου                                                            |
+| והים                                           | και η θαλασσα                                                       |
+| *הגבול **הגדול •^[Agreement of LXX with qere.] | η μεγαλη                                                            |
+| וגבול                                          | διοριζει                                                            |
+: Joshua (Alexandrinus) chapter 15, verse 47 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 48
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ובהר                   | και εν τη ορεινη     |
+| שמיר                   | σαφιρ                |
+| ויתיר                  | και ιεθερ            |
+| ושוכה                  | και σωχω             |
+: Joshua (Alexandrinus) chapter 15, verse 48 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 49
+
+| Masoretic text (BHS)   | Tov's retroversion                                                                                                      | Rahlf's Septuagint   |
+|:-----------------------|:------------------------------------------------------------------------------------------------------------------------|:---------------------|
+| ודנה                   | ורנה •^[Interchange of consonants between MT and the presumed Hebrew parent text of the LXX (interchange of R/D, etc.)] | και ρεννα            |
+| וקרית                  |                                                                                                                         | πολις                |
+| סנה                    | ספר                                                                                                                     | γραμματων            |
+| היא                    |                                                                                                                         | αυτη εστιν           |
+| דבר                    |                                                                                                                         | δαβιρ                |
+: Joshua (Alexandrinus) chapter 15, verse 49 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 50
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וענב                   | και ανωβ             |
+| ואשתמה                 | και εσθεμω           |
+| וענים                  | και ανιμ             |
+: Joshua (Alexandrinus) chapter 15, verse 50 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 51
+
+| Masoretic text (BHS)                                       | Rahlf's Septuagint   |
+|:-----------------------------------------------------------|:---------------------|
+| וגשן                                                       | και γοσομ            |
+| וחלן                                                       | και χιλουων          |
+| וגלה                                                       | και γηλων            |
+| ערים                                                       | πολεις               |
+| אחת עשרה •^[Difference in numbers between MT and the LXX.] | δεκα                 |
+| וחצריהן                                                    | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 51 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 52
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|:---------------------|
+| ארב                    |                      | ερεβ                 |
+| ורומה                  | ואשען                | και εσαν             |
+| ואשען                  | ורומה                | και ρουμα            |
+: Joshua (Alexandrinus) chapter 15, verse 52 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 53
+
+| Masoretic text (BHS)                           | Rahlf's Septuagint   |
+|:-----------------------------------------------|:---------------------|
+| *וינים **וינום •^[Agreement of LXX with qere.] | και ιανουμ           |
+| ובית תפוח                                      | και βαιθθαπφουε      |
+| ואפקה                                          | και αφακα            |
+: Joshua (Alexandrinus) chapter 15, verse 53 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 54
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וחמטה                  | και χαμματα          |
+| וקרית ארבע             | και πολις αρβο       |
+| היא                    | αυτη εστιν           |
+| חברון                  | χεβρων               |
+| וציער                  | και σιωρ             |
+| ערים                   | πολεις               |
+| תשע                    | εννεα                |
+| וחצריהן                | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 54 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 55
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| מעון                   | μαων                 |
+| כרמל                   | και χερμελ           |
+| וזיף                   | και ζιφ              |
+| ויוטה                  | και ιεττα            |
+: Joshua (Alexandrinus) chapter 15, verse 55 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 56
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויזרעאל                | και ιεζραελ          |
+| ויקדעם                 | και ιεκδααμ          |
+| וזנוח הקין             | και ζανωακιμ [57]    |
+: Joshua (Alexandrinus) chapter 15, verse 56 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 57
+
+| Masoretic text (BHS)                                  | Rahlf's Septuagint   |
+|:------------------------------------------------------|:---------------------|
+| גבעה                                                  | και γαβαα            |
+| ותמנה                                                 | και θαμνα            |
+| ערים                                                  | πολεις               |
+| עשר •^[Difference in numbers between MT and the LXX.] | εννεα                |
+| וחצריהן                                               | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 57 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 58
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| חלחול                  | αλουλ                |
+| בית צור                | και βαιθσουρ         |
+| וגדור                  | και γεδωρ            |
+: Joshua (Alexandrinus) chapter 15, verse 58 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 59
+
+| Masoretic text (BHS)                                                                              | Rahlf's Septuagint   |
+|:--------------------------------------------------------------------------------------------------|:---------------------|
+| ומערת                                                                                             | και μαρωθ            |
+| ובית ענות                                                                                         | και βαιθανωθ         |
+| ואלתקן                                                                                            | και ελθεκεν          |
+| ערים                                                                                              | πολεις               |
+| שש                                                                                                | εξ                   |
+| וחצריהן                                                                                           | και αι κωμαι αυτων   |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | θεκω                 |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και εφραθα           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | αυτη εστιν           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | βηθλεεμ              |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και φαγωρ            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και αιταμ            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και κουλον           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και ταταμι           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και σωρης            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και καρεμ            |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και γαλλιμ           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και βαιθηρ           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και μανοχω           |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | πολεις               |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | ενδεκα               |
+| •^[Element 'added' in the Greek (plus in the LXX).] •^[Long minus or plus (at least four lines).] | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 59 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 60
+
+| Masoretic text (BHS)                                                   | Rahlf's Septuagint                                            |
+|:-----------------------------------------------------------------------|:--------------------------------------------------------------|
+| קרית בעל                                                               | καριαθβααλ                                                    |
+| היא                                                                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| קרית                                                                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| יערים                                                                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| והרבה                                                                  | και απεββα                                                    |
+| ערים                                                                   | πολεις                                                        |
+| שתים                                                                   | δυο                                                           |
+| •^[Element 'added' in the Greek (plus in the LXX).] =;ובנותיהן <15.45> | και αι κωμαι αυτων                                            |
+| וחצריהן                                                                | και αι επαυλεις αυτων                                         |
+: Joshua (Alexandrinus) chapter 15, verse 60 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 61
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| במדבר                  | βαδδαργις            |
+| בית הערבה              | και βηθαραβα         |
+| מדין                   | και μαδων            |
+| וסככה                  | και σοχοχα           |
+: Joshua (Alexandrinus) chapter 15, verse 61 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 62
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| והנבשן                 | και νεβσαν           |
+| ועיר                   | και αι πολεις        |
+| המלח                   | αλων                 |
+| ועין גדי               | και ηνγαδδι          |
+| ערים                   | πολεις               |
+| שש                     | επτα                 |
+| וחצריהן                | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 15, verse 62 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 18
+
+### Verse 21
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                                                          |
+|:-----------------------|:------------------------------------------------------------------------------------------------------------|
+| והיו                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| הערים                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| למטה                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| בני                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| בנימן                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| למשפחותיהם             | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| יריחו                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] •^[Long minus or plus (at least four lines).] |
+| ובית חגלה              | βηθαγλα                                                                                                     |
+| ועמק קציץ              | και αμεκκασις                                                                                               |
+: Joshua (Alexandrinus) chapter 18, verse 21 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 22
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ובית הערבה             | και βαιθαραβα        |
+| וצמרים                 | και σεμριμ           |
+| ובית אל                | και βηθηλ            |
+: Joshua (Alexandrinus) chapter 18, verse 22 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 23
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| והעוים                 | και αυιμ             |
+| והפרה                  | και αφαρ             |
+| ועפרה                  | και αφρα             |
+: Joshua (Alexandrinus) chapter 18, verse 23 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 24
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:--------------------------------------------------------------|
+| •^[Element 'added' in the Greek (plus in the LXX).] | και αικαρεν                                                   |
+| וכפר *העמני **העמנה                                 | και καφηραμμιν                                                |
+| והעפני                                              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וגבע                                                | και γαβαα                                                     |
+| ערים                                                | πολεις                                                        |
+| שתים עשרה                                           | δωδεκα                                                        |
+| וחצריהן                                             | και αι κωμαι αυτων                                            |
+: Joshua (Alexandrinus) chapter 18, verse 24 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 25
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| גבעון                  | γαβαων               |
+| והרמה                  | και ραμα             |
+| ובארות                 | και βηρωθ            |
+: Joshua (Alexandrinus) chapter 18, verse 25 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 26
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| והמצפה                 | και μασφα            |
+| והכפירה                | και χεφιρα           |
+| והמצה                  | και αμωσα            |
+: Joshua (Alexandrinus) chapter 18, verse 26 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 27
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ורקם                   | και ρεκεμ            |
+| וירפאל                 | και ιερφαηλ          |
+| ותראלה                 | και θαραλα           |
+: Joshua (Alexandrinus) chapter 18, verse 27 { .hover tbl-colwidths="[50,50]"}
+
+## Chapter 19
+
+### Verse 1
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ויצא                   | και εξηλθεν                                                   |
+| הגורל                  | ο κληρος                                                      |
+| השני                   | ο δευτερος                                                    |
+| לשמעון                 | τω συμεων                                                     |
+| למטה                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| בני                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| שמעון                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| למשפחותם               | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ויהי                   | και εγενηθη                                                   |
+| נחלתם                  | η κληρονομια αυτων                                            |
+| בתוך                   | ανα μεσον                                                     |
+| נחלת                   | κληρου                                                        |
+| בני                    | υιων                                                          |
+| יהודה                  | ιουδα                                                         |
+: Joshua (Alexandrinus) chapter 19, verse 1 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 2
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ויהי                   | και εγενηθη                                                   |
+| להם                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| בנחלתם                 | ο κληρος αυτων                                                |
+| באר שבע                | βηρσαβεε                                                      |
+| ושבע                   | και σαβεε                                                     |
+| ומולדה                 | και μωλαδα                                                    |
+: Joshua (Alexandrinus) chapter 19, verse 2 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 3
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וחצר                   | και ασερσουαλ        |
+| שועל                   | και βαθουλ           |
+| ובלה                   | και βωλα             |
+| ועצם                   | και ασομ             |
+: Joshua (Alexandrinus) chapter 19, verse 3 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 4
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ואלתולד                | και ελθουλαδ                                                  |
+| ובתול                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וחרמה                  | και ερμα                                                      |
+: Joshua (Alexandrinus) chapter 19, verse 4 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 5
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וצקלג                  | και σεκελα           |
+| ובית המרכבות           | και βαιθαμμαρχαβωθ   |
+| וחצר סוסה              | και ασερσουσιμ       |
+: Joshua (Alexandrinus) chapter 19, verse 5 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 6
+
+| Masoretic text (BHS)   | Tov's retroversion                                   | Rahlf's Septuagint   |
+|:-----------------------|:-----------------------------------------------------|:---------------------|
+| ובית לבאות             |                                                      | και βαιθλαβαθ        |
+| ושרוחן                 | ושדיהם •^[Difference in vocalization (reading).] .dr | και οι αγροι αυτων   |
+| ערים                   |                                                      | πολεις               |
+| שלש עשרה               |                                                      | δεκα τρεις           |
+| וחצריהן                |                                                      | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 19, verse 6 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 7
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| עין                    | αιν                  |
+| רמון                   | και ρεμμων           |
+| ועתר                   | και εθερ             |
+| ועשן                   | και ασαν             |
+| ערים                   | πολεις               |
+| ארבע                   | τεσσαρες             |
+| וחצריהן                | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 19, verse 7 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 8
+
+| Masoretic text (BHS)                                | Tov's retroversion   | Rahlf's Septuagint                                            |
+|:----------------------------------------------------|:---------------------|:--------------------------------------------------------------|
+| וכל                                                 |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| החצרים                                              |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| אשר                                                 |                      | αι                                                            |
+| סביבות                                              |                      | περικυκλω                                                     |
+| הערים                                               |                      | των πολεων                                                    |
+| האלה                                                |                      | τουτων                                                        |
+| עד                                                  |                      | εως                                                           |
+| בעלת באר ראמת                                       |                      | βααλεθβηρραμωθ                                                |
+| •^[Element 'added' in the Greek (plus in the LXX).] | מבוא                 | πορευομενων                                                   |
+| •^[Element 'added' in the Greek (plus in the LXX).] |                      | ιαμεθ                                                         |
+| נגב                                                 |                      | κατα λιβα                                                     |
+| זאת                                                 |                      | αυτη                                                          |
+| נחלת                                                |                      | η κληρονομια                                                  |
+| מטה                                                 |                      | φυλης                                                         |
+| בני                                                 |                      | υιων                                                          |
+| שמעון                                               |                      | συμεων                                                        |
+| למשפחתם                                             |                      | κατα δημους αυτων                                             |
+: Joshua (Alexandrinus) chapter 19, verse 8 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 9
+
+| Masoretic text (BHS)                                                                  | Rahlf's Septuagint                                            |
+|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------|
+| מחבל                                                                                  | απο του κληρου                                                |
+| בני                                                                                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| יהודה                                                                                 | ιουδα                                                         |
+| נחלת                                                                                  | η κληρονομια                                                  |
+| •^[Element 'added' in the Greek (plus in the LXX).]                                   | φυλης                                                         |
+| בני                                                                                   | υιων                                                          |
+| שמעון                                                                                 | συμεων                                                        |
+| כי                                                                                    | οτι                                                           |
+| היה                                                                                   | εγενηθη                                                       |
+| חלק                                                                                   | μερις                                                         |
+| בני                                                                                   | υιων                                                          |
+| יהודה                                                                                 | ιουδα                                                         |
+| רב •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] ם | μειζων                                                        |
+| מהם                                                                                   | της αυτων                                                     |
+| וינחלו                                                                                | και εκληρονομησαν                                             |
+| בני                                                                                   | οι υιοι                                                       |
+| שמעון                                                                                 | συμεων                                                        |
+| בתוך                                                                                  | εν μεσω                                                       |
+| נחלתם                                                                                 | του κληρου αυτων                                              |
+: Joshua (Alexandrinus) chapter 19, verse 9 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 10
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                               |
+|:-----------------------|:-----------------------------------------------------------------|
+| ויעל                   | και εξηλθεν                                                      |
+| הגורל                  | ο κληρος                                                         |
+| השלישי                 | ο τριτος                                                         |
+| לבני                   | τω •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| זבולן                  | ζαβουλων                                                         |
+| למשפחתם                | κατα δημους αυτων                                                |
+| ויהי                   | και εσται                                                        |
+| גבול                   | τα ορια                                                          |
+| נחלתם                  | της κληρονομιας αυτων                                            |
+| עד                     | εως                                                              |
+| שריד                   | σαριδ                                                            |
+: Joshua (Alexandrinus) chapter 19, verse 10 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 11
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| עלה                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| גבולם                  | τα ορια αυτων                                                 |
+| לימה                   | η θαλασσα                                                     |
+| ומרעלה                 | και μαραλα                                                    |
+| ופגע                   | και συναψει                                                   |
+| בדבשת                  | επι δαβασθαι                                                  |
+| ופגע                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| אל                     | εις                                                           |
+| הנחל                   | την φαραγγα                                                   |
+| אשר                    | η εστιν                                                       |
+| על פני                 | κατα προσωπον                                                 |
+| יקנעם                  | ιεκναμ                                                        |
+: Joshua (Alexandrinus) chapter 19, verse 11 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 12
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                        |
+|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| ושב                                                                              | και αναστρεψει                                                                                                            |
+| משריד                                                                            | απο σαριδ                                                                                                                 |
+| קדמה                                                                             | εξ εναντιας                                                                                                               |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | απο                                                                                                                       |
+| מזרח                                                                             | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] απο ανατολων |
+| השמש                                                                             | σαμς                                                                                                                      |
+| על                                                                               | επι                                                                                                                       |
+| גבול                                                                             | τα ορια                                                                                                                   |
+| כסלת                                                                             | χασαλωθ                                                                                                                   |
+| תבר                                                                              | θαβωρ                                                                                                                     |
+| ויצא                                                                             | και διελευσεται                                                                                                           |
+| אל                                                                               | επι                                                                                                                       |
+| הדברת                                                                            | δαβραθ                                                                                                                    |
+| ועלה                                                                             | και προσαναβησεται                                                                                                        |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | επι                                                                                                                       |
+| יפיע                                                                             | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] επι ιαφαγαι  |
+: Joshua (Alexandrinus) chapter 19, verse 12 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 13
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                      |
+|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
+| ומשם                                                                             | και εκειθεν                                                                                                             |
+| עבר                                                                              | περιελευσεται                                                                                                           |
+| קדמה                                                                             | εξ εναντιας                                                                                                             |
+| מזרחה                                                                            | επ' ανατολας                                                                                                            |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | επι                                                                                                                     |
+| גתה                                                                              | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] επι γεθθα  |
+| חפר                                                                              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                           |
+| עתה                                                                              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]                                                           |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | επι                                                                                                                     |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | πολιν                                                                                                                   |
+| קצין                                                                             | κασιμ                                                                                                                   |
+| ויצא                                                                             | και διελευσεται                                                                                                         |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | επι                                                                                                                     |
+| רמון                                                                             | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] επι ρεμμων |
+| המתאר                                                                            | αμμαθαριμ                                                                                                               |
+| הנעה                                                                             | αννουα                                                                                                                  |
+: Joshua (Alexandrinus) chapter 19, verse 13 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 14
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                          |
+|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| ונסב אתו =vpa                                                                    | και περιελευσεται                                                                                                           |
+| הגבול                                                                            | επι τα ορια                                                                                                                 |
+| מצפון                                                                            | βορρα                                                                                                                       |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | επι                                                                                                                         |
+| חנתן                                                                             | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] επι ενναθωθ    |
+| והיו                                                                             | και εσται                                                                                                                   |
+| תצאתיו                                                                           | η διεξοδος αυτων                                                                                                            |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | επι                                                                                                                         |
+| גי יפתח אל                                                                       | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] επι γαιιεφθαηλ |
+: Joshua (Alexandrinus) chapter 19, verse 14 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 15
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| וקטת                   | και κατταθ                                                    |
+| ונהלל                  | και νααλωλ                                                    |
+| ושמרון                 | και σεμρων                                                    |
+| וידאלה                 | και ιαδηλα                                                    |
+| ובית לחם               | και βαιθλεεμ                                                  |
+| ערים                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| שתים עשרה              | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וחצריהן                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 15 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 16
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| זאת                                                 | αυτη                 |
+| נחלת                                                | η κληρονομια         |
+| •^[Element 'added' in the Greek (plus in the LXX).] | της φυλης            |
+| בני                                                 | υιων                 |
+| זבולן                                               | ζαβουλων             |
+| למשפחתם                                             | κατα δημους αυτων    |
+| הערים                                               | αι πολεις            |
+| האלה                                                | αυται                |
+| וחצריהן                                             | και αι κωμαι αυτων   |
+: Joshua (Alexandrinus) chapter 19, verse 16 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 17
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ליששכר                 | και τω ισσαχαρ                                                |
+| יצא                    | εξηλθεν                                                       |
+| הגורל                  | ο κληρος                                                      |
+| הרביעי                 | ο τεταρτος                                                    |
+| לבני                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| יששכר                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| למשפחותם               | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 17 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 18
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויהי                   | και εγενηθη          |
+| גבולם                  | τα ορια αυτων        |
+| יזרעאלה                | ιεζραελ              |
+| והכסולת                | και αχασελωθ         |
+| ושונם                  | και σουναμ           |
+: Joshua (Alexandrinus) chapter 19, verse 18 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 19
+
+| Masoretic text (BHS)                                | Rahlf's Septuagint   |
+|:----------------------------------------------------|:---------------------|
+| וחפרים                                              | και αφεραιμ          |
+| ושיאן                                               | και σιαν             |
+| •^[Element 'added' in the Greek (plus in the LXX).] | και ρεναθ            |
+| ואנחרת                                              | και αναρεθ           |
+: Joshua (Alexandrinus) chapter 19, verse 19 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 20
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| והרבית                 | και ραββωθ           |
+| וקשיון                 | και κεσιων           |
+| ואבץ                   | και αεμε             |
+: Joshua (Alexandrinus) chapter 19, verse 20 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 21
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ורמת                   | και ραμαθ            |
+| ועין גנים              | και ηνγαννιμ         |
+| ועין חדה               | και ηναδδα           |
+| ובית פצץ               | και βαιθφασης        |
+: Joshua (Alexandrinus) chapter 19, verse 21 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 22
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint                                            |
+|:-----------------------|:---------------------|:--------------------------------------------------------------|
+| ופגע                   |                      | και συναψει                                                   |
+| הגבול                  |                      | τα ορια                                                       |
+| בתבור                  |                      | επι θαβωθ                                                     |
+| *ושחצומה **ושחצימה     | ימה                  | και επι σασιμα κατα θαλασσαν                                  |
+| ובית שמש               |                      | και βαιθσμας                                                  |
+| והיו                   |                      | και εσται                                                     |
+| תצאות                  |                      | η διεξοδος                                                    |
+| גבולם                  |                      | των οριων αυτων                                               |
+| הירדן                  |                      | ο ιορδανης                                                    |
+| ערים                   |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| שש עשרה                |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וחצריהן                |                      | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 22 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 23
+
+| Masoretic text (BHS)   | Rahlf's Septuagint    |
+|:-----------------------|:----------------------|
+| זאת                    | αυτη                  |
+| נחלת                   | η κληρονομια          |
+| מטה                    | φυλης                 |
+| בני                    | υιων                  |
+| יששכר                  | ισσαχαρ               |
+| למשפחתם                | κατα δημους αυτων     |
+| הערים                  | αι πολεις             |
+| וחצריהן                | και αι επαυλεις αυτων |
+: Joshua (Alexandrinus) chapter 19, verse 23 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 24
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ויצא                   | και εξηλθεν                                                   |
+| הגורל                  | ο κληρος                                                      |
+| החמישי                 | ο πεμπτος                                                     |
+| למטה                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| בני                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| אשר                    | ασηρ                                                          |
+| למשפחותם               | κατα δημους αυτων                                             |
+: Joshua (Alexandrinus) chapter 19, verse 24 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 25
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויהי                   | και εγενηθη          |
+| גבולם                  | τα ορια αυτων        |
+| חלקת                   | χελκαθ               |
+| וחלי                   | και οολι             |
+| ובטן                   | και βατνε            |
+| ואכשף                  | και αχσαφ            |
+: Joshua (Alexandrinus) chapter 19, verse 25 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 26
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ואלמלך                 | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| ועמעד                  | και αμαδ                                                      |
+| ומשאל                  | και μασαλ                                                     |
+| ופגע                   | και συναψει                                                   |
+| בכרמל                  | τω καρμηλω                                                    |
+| הימה                   | κατα θαλασσαν                                                 |
+| ובשיחור                | και τω σιωρ                                                   |
+| לבנת                   | και λαβαναθ                                                   |
+: Joshua (Alexandrinus) chapter 19, verse 26 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 27
+
+| Masoretic text (BHS)                                                             | Rahlf's Septuagint                                                                                                        |
+|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| ושב                                                                              | και επιστρεψει                                                                                                            |
+| •^[Equivalent reflected elsewhere in the text, disregarded by indexing program.] | απ'                                                                                                                       |
+| מזרח                                                                             | •^[Preposition added in the LXX in accordance with the rules of the Greek language or translational habits.] απ' ανατολων |
+| השמש                                                                             | ηλιου                                                                                                                     |
+| בית דגן                                                                          | βηθδαγων                                                                                                                  |
+| ופגע                                                                             | και συναψει                                                                                                               |
+| בזבלון                                                                           | τω ζαβουλων                                                                                                               |
+| ובגי                                                                             | και εν γαι                                                                                                                |
+| יפתח                                                                             | ιεφθαηλ                                                                                                                   |
+| אל צפונה                                                                         | κατα βορραν                                                                                                               |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | και εισελευσεται                                                                                                          |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | τα ορια                                                                                                                   |
+| בית העמק                                                                         | σαφθαβηθαεμεκ                                                                                                             |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | και πορευσεται                                                                                                            |
+| •^[Element 'added' in the Greek (plus in the LXX).]                              | το μεθοριον                                                                                                               |
+| ונעיאל                                                                           | ανιηλ                                                                                                                     |
+| ויצא                                                                             | και διελευσεται                                                                                                           |
+| אל                                                                               | εις                                                                                                                       |
+| כבול                                                                             | χαβωλ                                                                                                                     |
+| משמאל                                                                            | πο αριστερων                                                                                                              |
+: Joshua (Alexandrinus) chapter 19, verse 27 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 28
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ועברן                  | και αχραν            |
+| ורחב                   | και ροωβ             |
+| וחמון                  | και αμων             |
+| וקנה                   | και κανα             |
+| עד                     | εως                  |
+| צידון                  | σιδωνος              |
+| רבה                    | της μεγαλης          |
+: Joshua (Alexandrinus) chapter 19, verse 28 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 29
+
+| Masoretic text (BHS)   | Rahlf's Septuagint       |
+|:-----------------------|:-------------------------|
+| ושב                    | και αναστρεψει           |
+| הגבול                  | τα ορια                  |
+| הרמה                   | εις ραμα                 |
+| ועד                    | και εως                  |
+| עיר                    | πολεως                   |
+| מבצר                   | οχυρωματος               |
+| צר                     | των τυριων               |
+| ושב                    | και αναστρεψει           |
+| הגבול                  | τα ορια                  |
+| חסה                    | επι ωσα                  |
+| *ויהיו **והיו          | και εσται                |
+| תצאתיו                 | η διεξοδος αυτου         |
+| הימה                   | η θαλασσα                |
+| מחבל                   | και απο του σχοινισματος |
+| אכזיבה                 | αχζιφ                    |
+: Joshua (Alexandrinus) chapter 19, verse 29 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 30
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ועמה                   | και αμμα                                                      |
+| ואפק                   | και αφεκ                                                      |
+| ורחב                   | και ραωβ                                                      |
+| ערים                   | πολεις                                                        |
+| עשרים ושתים            | εικοσι δυο                                                    |
+| וחצריהן                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 30 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 31
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| זאת                    | αυτη                                                          |
+| נחלת                   | η κληρονομια                                                  |
+| מטה                    | φυλης                                                         |
+| בני                    | υιων                                                          |
+| אשר                    | ασηρ                                                          |
+| למשפחתם                | κατα δημους αυτων                                             |
+| הערים                  | πολεις αυτων                                                  |
+| האלה                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וחצריהן                | και αι κωμαι αυτων                                            |
+: Joshua (Alexandrinus) chapter 19, verse 31 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 32
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| לבני                   | και τω                                                        |
+| נפתלי                  | νεφθαλι                                                       |
+| יצא                    | εξηλθεν                                                       |
+| הגורל                  | ο κληρος                                                      |
+| הששי                   | ο εκτος                                                       |
+| לבני                   | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| נפתלי                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| למשפחתם                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 32 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 33
+
+| Masoretic text (BHS)   | Tov's retroversion   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|:---------------------|
+| ויהי                   |                      | και εγενετο          |
+| גבולם                  |                      | τα ορια αυτων        |
+| מחלף                   |                      | μεελεφ               |
+| מאלון                  |                      | και μαηλων           |
+| בצעננים                |                      | και βεσενανιμ        |
+| ואדמי                  | וארמי .dr            | και αρμαι            |
+| הנקב                   |                      | και νακεβ            |
+| ויבנאל                 |                      | και ιαβνηλ           |
+| עד                     |                      | εως                  |
+| לקום                   |                      | λακου                |
+| ויהי                   |                      | και εγενηθησαν       |
+| תצאתיו                 |                      | αι διεξοδοι αυτου    |
+| הירדן                  |                      | ο ιορδανης           |
+: Joshua (Alexandrinus) chapter 19, verse 33 { .hover tbl-colwidths="[35,30,35]"}
+
+### Verse 34
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ושב                    | και επιστρεψει                                                |
+| הגבול                  | τα ορια                                                       |
+| ימה                    | επι θαλασσαν                                                  |
+| אזנות                  | αζανωθ                                                        |
+| תבור                   | θαβωρ                                                         |
+| ויצא                   | και διελευσεται                                               |
+| משם                    | εκειθεν                                                       |
+| חוקקה                  | εις ικωκ                                                      |
+| ופגע                   | και συναψει                                                   |
+| בזבלון                 | τω ζαβουλων                                                   |
+| מנגב                   | απο νοτου                                                     |
+| ובאשר                  | και τω ασηρ                                                   |
+| פגע                    | συναψει                                                       |
+| מים                    | κατα θαλασσαν                                                 |
+| וביהודה                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| הירדן                  | και ο ιορδανης                                                |
+| מזרח                   | απ' ανατολων                                                  |
+| השמש                   | ηλιου                                                         |
+: Joshua (Alexandrinus) chapter 19, verse 34 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 35
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וערי                   | και πολεις           |
+| מבצר                   | τειχηρεις            |
+| הצדים                  | των τυριων           |
+| צר                     | τυρος                |
+| וחמת                   | και αμαθ             |
+| רקת                    | και ρεκκαθ           |
+| וכנרת                  | και χενερεθ          |
+: Joshua (Alexandrinus) chapter 19, verse 35 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 36
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואדמה                  | και αδαμι            |
+| והרמה                  | και ραμα             |
+| וחצור                  | και ασωρ             |
+: Joshua (Alexandrinus) chapter 19, verse 36 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 37
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| וקדש                   | και κεδες            |
+| ואדרעי                 | και εδραι            |
+| ועין חצור              | και πηγη ασορ        |
+: Joshua (Alexandrinus) chapter 19, verse 37 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 38
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| ויראון                 | και ιαριων                                                    |
+| ומגדל אל               | και μαγδαλιηλ                                                 |
+| חרם                    | ωραμ                                                          |
+| ובית ענת               | και βαιθαναθ                                                  |
+| ובית שמש               | και θασμους                                                   |
+| ערים                   | πολεις                                                        |
+| תשע עשרה               | δεκα εννεα                                                    |
+| וחצריהן                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 38 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 39
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                            |
+|:-----------------------|:--------------------------------------------------------------|
+| זאת                    | αυτη                                                          |
+| נחלת                   | η κληρονομια                                                  |
+| מטה                    | φυλης                                                         |
+| בני                    | υιων                                                          |
+| נפתלי                  | νεφθαλι                                                       |
+| למשפחתם                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| הערים                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| וחצריהן                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+: Joshua (Alexandrinus) chapter 19, verse 39 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 40
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                   |
+|:-----------------------|:---------------------------------------------------------------------|
+| למטה                   | και τω •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] |
+| בני                    | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]        |
+| דן                     | δαν                                                                  |
+| למשפחתם                | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).]        |
+| יצא                    | εξηλθεν                                                              |
+| הגורל                  | ο κληρος                                                             |
+| השביעי                 | ο εβδομος                                                            |
+: Joshua (Alexandrinus) chapter 19, verse 40 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 41
+
+| Masoretic text (BHS)   | Rahlf's Septuagint                                                  |
+|:-----------------------|:--------------------------------------------------------------------|
+| ויהי                   | και εγενηθη                                                         |
+| גבול                   | τα ορια                                                             |
+| נחלתם                  | •^[Hebrew counterpart lacking in the LXX (minus in the LXX).] αυτων |
+| צרעה                   | σαραα                                                               |
+| ואשתאול                | και εσθαολ                                                          |
+| ועיר                   | και πολις                                                           |
+| שמש                    | σαμες                                                               |
+: Joshua (Alexandrinus) chapter 19, verse 41 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 42
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ושעלבין                | και σαλαβιν          |
+| ואילון                 | και ιααλων           |
+| ויתלה                  | και ιεθλα            |
+: Joshua (Alexandrinus) chapter 19, verse 42 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 43
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואילון                 | και αιλων            |
+| ותמנתה                 | και θαμνα            |
+| ועקרון                 | και ακκαρων          |
+: Joshua (Alexandrinus) chapter 19, verse 43 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 44
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ואלתקה                 | και ελθεκω           |
+| וגבתון                 | και γαβαθων          |
+| ובעלת                  | και βααλων           |
+: Joshua (Alexandrinus) chapter 19, verse 44 { .hover tbl-colwidths="[50,50]"}
+
+### Verse 45
+
+| Masoretic text (BHS)   | Rahlf's Septuagint   |
+|:-----------------------|:---------------------|
+| ויהד                   | και ιουθ             |
+| ובני ברק               | και βανηβαρακ        |
+| וגת רמון               | και γεθρεμμων        |
+: Joshua (Alexandrinus) chapter 19, verse 45 { .hover tbl-colwidths="[50,50]"}
+
