@@ -1,8 +1,5 @@
 project:
   type: website
-  resources:
-  - CNAME
-  - .nojekyll
   render: 
     - index.qmd
     - book_list.qmd
