@@ -31,8 +31,8 @@ def convert_to_dataframe(file_path):
         "W/H/KHNYM =W/H/)BNYM .m .kb 	KAI\ OI( LI/QOI ",
     )  # JoshB 4:11
     parallel_raw = parallel_raw.replace(
-        "W/YC+YRW =;W/YC+YDW .rd <9.12 E)PESITI/SANTO \{d\} KAI\ H(TOIMA/SANTO ",
-        "W/YC+YRW =;W/YC+YDW .rd <9.12 	E)PESITI/SANTO \{d\} KAI\ H(TOIMA/SANTO ",
+        "W/YC+YRW =;W/YC+YDW .rd <9.12 E)PESITI/SANTO {d} KAI\ H(TOIMA/SANTO ",
+        "W/YC+YRW =;W/YC+YDW .rd <9.12 	E)PESITI/SANTO {d} KAI\ H(TOIMA/SANTO ",
     )  # JoshB 9:4
     parallel_raw = parallel_raw.replace(
         "--+ '' =;L/GBWLWT/YHM <19.49> E)N TOI=S O(RI/OIS AU)TW=N ",
@@ -105,7 +105,7 @@ def convert_to_dataframe(file_path):
 
     parallel = pd.concat(parallels_dataframe_list)
     # parallel.to_csv('aver.csv')
-
+    
     # Splitting the text so that we have the Masoretic and the LXX columns
     parallel[["masoretic", "lxx"]] = parallel["words"].str.split("\t", n=1, expand=True)
     parallel = parallel.drop(columns=["words"])
@@ -165,7 +165,7 @@ def convert_to_dataframe(file_path):
     parallel[["masoretic", "retroverted"]] = parallel["masoretic"].str.split(
         new_separator, n=1, expand=True
     )
-
+    
     # Reordering the columns
     parallel = parallel[
         ["book", "chapter", "verse", "orderby", "masoretic", "retroverted", "lxx"]
@@ -352,6 +352,15 @@ def convert_greek_to_unicode(parallel):
 
 
 def replace_annotations(parallel):
+
+    # Detecting potential differences in Hebrew Vorlage
+    selected_markers = ['--- {x}', '--+ {x}', '---', '--+', "''", '{v}', 'G', '=+', '=r', '.']
+    
+    parallel['potential_difference'] = parallel['masoretic'].apply(lambda x: any('!' + marker + '!' in x for marker in selected_markers)) | parallel['lxx'].apply(lambda x: any('!' + marker + '!' in x for marker in selected_markers))
+    
+    # Adding a potential difference where there is a retroversion
+    parallel['potential_difference'] = parallel['potential_difference'] | parallel['retroverted'].isna()
+    
     def replace_these_annotations(text, language):
         words = text.split()
 
@@ -441,5 +450,12 @@ files_to_convert = [
     ["../raw_data/46.DanielTh.par", "Daniel (Theodotion)"],
 ]
 
+files_to_convert = [
+        ["../raw_data/32.Jonah.par", "Jonah"],
+    
+    ]
+
+
 for book in files_to_convert:
     convert_to_csv_unicode(file_path=book[0], book_name=book[1])
+
