@@ -13,27 +13,27 @@ author: ""
 
 [Deuteronomy](collations/Deuteronomy.qmd)
 
-[Joshua (Vaticanus)](collations/JoshuaB.qmd)
+[Joshua (Vaticanus)](collations/Joshua%20(Vaticanus).qmd)
 
-[Joshua (Alexandrinus)](collations/JoshuaA.qmd)
+[Joshua (Alexandrinus)](collations/Joshua%20(Alexandrinus).qmd)
 
-[Judges (Vaticanus)](collations/JudgesB.qmd)
+[Judges (Vaticanus)](collations/Judges%20(Vaticanus).qmd)
 
-[Judges (Alexandrinus)](collations/JudgesA.qmd)
+[Judges (Alexandrinus)](collations/Judges%20(Alexandrinus).qmd)
 
 [Ruth](collations/Ruth.qmd)
 
-[1 Samuel](collations/1Samuel.qmd)
+[1 Samuel](collations/1%20Samuel.qmd)
 
-[2 Samuel](collations/2Samuel.qmd)
+[2 Samuel](collations/2%20Samuel.qmd)
 
-[1 Kings](collations/1Kings.qmd)
+[1 Kings](collations/1%20Kings.qmd)
 
-[2 Kings](collations/2Kings.qmd)
+[2 Kings](collations/2%20Kings.qmd)
 
-[1 Chronicles](collations/1Chronicles.qmd)
+[1 Chronicles](collations/1%20Chronicles.qmd)
 
-[2 Chronicles](collations/2Chronicles.qmd)
+[2 Chronicles](collations/2%20Chronicles.qmd)
 
 [Esther](collations/Esther.qmd)
 
@@ -47,7 +47,7 @@ author: ""
 
 [Ecclesiastes](collations/Ecclesiastes.qmd)
 
-[Song of Songs](collations/Song.qmd)
+[Song of Songs](collations/Song%20of%20Songs.qmd)
 
 [Job](collations/Job.qmd)
 
@@ -83,6 +83,6 @@ author: ""
 
 [Ezekiel](collations/Ezekiel.qmd)
 
-[Daniel (Old Greek)](collations/DanielOG.qmd)
+[Daniel (Old Greek)](collations/Daniel%20(Old%20Greek).qmd)
 
-[Daniel (Theodotion)](collations/DanielTh.qmd)
+[Daniel (Theodotion)](collations/Daniel%20(Theodotion).qmd)

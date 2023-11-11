@@ -26,6 +26,7 @@ format:
     css: styles/styles.css
     toc: true
     toc-location: left
+    linkcolor: '#7c90cc'
     fontsize: 21px
     header-includes: |
       <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,600;1,400;1,600&display=swap" type="text/css"/>

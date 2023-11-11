@@ -359,7 +359,7 @@ def replace_annotations(parallel):
     parallel['potential_difference'] = parallel['masoretic'].apply(lambda x: any('!' + marker + '!' in x for marker in selected_markers)) | parallel['lxx'].apply(lambda x: any('!' + marker + '!' in x for marker in selected_markers))
     
     # Adding a potential difference where there is a retroversion
-    parallel['potential_difference'] = parallel['potential_difference'] | parallel['retroverted'].isna()
+    parallel['potential_difference'] = parallel['potential_difference'] | parallel['retroverted'].apply(lambda x: x != '')
     
     def replace_these_annotations(text, language):
         words = text.split()
@@ -450,10 +450,7 @@ files_to_convert = [
     ["../raw_data/46.DanielTh.par", "Daniel (Theodotion)"],
 ]
 
-files_to_convert = [
-        ["../raw_data/32.Jonah.par", "Jonah"],
-    
-    ]
+#files_to_convert = [ ["../raw_data/32.Jonah.par", "Jonah"], ]
 
 
 for book in files_to_convert:

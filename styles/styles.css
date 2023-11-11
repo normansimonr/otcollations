@@ -4,6 +4,12 @@
         font-size: 0.7em;
       }
 
+.potential-difference {
+    background: #911111;
+    font-size: 1.2em;
+    color: #ffffff;
+}
+      
 h1 {
   text-align: center;
   font-weight: normal;
